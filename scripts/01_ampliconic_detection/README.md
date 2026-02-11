@@ -46,6 +46,8 @@ Identifies ampliconic gene family clusters on the X and Y chromosomes. Makes ali
 
 The alignment files generated here are used as input for `bootstrap_dnds.py` and for gene conversion analysis (see `scripts/03_gene_conversion/`).
 
+
+
 ### 3. `bootstrap_dnds.py`
 Performs bootstrap resampling to generate confidence intervals for pairwise dN/dS estimates.
 
@@ -77,3 +79,4 @@ Final bootstrapped dN/dS table
 The palindrome annotation files from Makova et al., 2024 are included in `data/raw/palindromes/` for reproducibility.
 If you use the multicopy gene detection approach, please cite:
 Makova, K.D., Pickett, B.D., Harris, R.S. et al. The complete sequence and comparative analysis of ape sex chromosomes. Nature 630, 401–411 (2024). https://doi.org/10.1038/s41586-024-07473-2
+
