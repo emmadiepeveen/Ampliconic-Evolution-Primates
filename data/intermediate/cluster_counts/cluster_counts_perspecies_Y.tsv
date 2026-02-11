@@ -1,0 +1,53 @@
+Family	Cluster	GorGor	HomSap	MacFas	PanPan	PanTro	PonAbe	PonPyg	SymSyn
+BPY2	BPY2	2	3	0	2	1	0	0	0
+CDY1	CDY1	1	4	0	2	4	20	12	5
+CDY1	MacFas_cluster1	0	0	2	0	0	0	0	0
+CDY1	PonAbe_cluster1	0	0	0	0	0	2	0	0
+CDY1	PonPyg_cluster1	0	0	0	0	0	0	1	0
+DAZ1	DAZ3	2	4	2	2	4	2	10	2
+DAZ1	PonAbe_cluster1	0	0	0	0	0	3	0	0
+HSFY1	GorGor_cluster1	5	0	0	0	0	0	0	0
+HSFY1	HSFY2	0	2	3	0	0	5	2	5
+HSFY1	PonAbe_cluster1	0	0	0	0	0	4	0	0
+HSFY1	PonPyg_cluster1	0	0	0	0	0	0	2	0
+MTRNR2-like 17	MTRNR2L17	0	0	0	0	3	0	0	0
+RBMY1B	GorGor_cluster1	1	0	0	0	0	0	0	0
+RBMY1B	GorGor_cluster2	1	0	0	0	0	0	0	0
+RBMY1B	PanPan_PanTro_cluster1	0	0	0	1	1	0	0	0
+RBMY1B	PanPan_cluster1	0	0	0	1	0	0	0	0
+RBMY1B	PanTro_cluster1	0	0	0	0	1	0	0	0
+RBMY1B	PonAbe_PonPyg_cluster1	0	0	0	0	0	2	6	0
+RBMY1B	RBMY1F	11	6	2	26	6	2	2	0
+RBMY1B	SymSyn_cluster1	0	0	0	0	0	0	0	5
+TATA-box binding protein associated factor 11 like protein 2-like	SymSyn_cluster1	0	0	0	0	0	0	0	1
+TATA-box binding protein associated factor 11 like protein 2-like	SymSyn_cluster2	0	0	0	0	0	0	0	2
+TSPY8	PanPan_cluster1	0	0	0	1	0	0	0	0
+TSPY8	PanTro_cluster1	0	0	0	0	1	0	0	0
+TSPY8	PonAbe_cluster1	0	0	0	0	0	1	0	0
+TSPY8	PonPyg_cluster1	0	0	0	0	0	0	2	0
+TSPY8	TSPY8	6	44	9	16	21	17	25	5
+VCY1B	PanPan_PanTro_cluster1	0	0	0	2	2	0	0	0
+VCY1B	SymSyn_cluster1	0	0	0	0	0	0	0	1
+VCY1B	VCY	0	2	0	0	0	0	0	0
+adenylate kinase isoenzyme 6-like	PonAbe_PonPyg_cluster1	0	0	0	0	0	3	2	0
+adenylate kinase isoenzyme 6-like	PonAbe_PonPyg_cluster2	0	0	0	0	0	3	1	0
+adenylate kinase isoenzyme 6-like	PonAbe_cluster1	0	0	0	0	0	1	0	0
+adenylate kinase isoenzyme 6-like	SymSyn_cluster1	0	0	0	0	0	0	0	2
+centriole and centriolar satellite protein OFD1-like	GorGor_cluster1	2	0	0	0	0	0	0	0
+endogenous retrovirus group K member 19 Env polyprotein-like	PonAbe_PonPyg_cluster1	0	0	0	0	0	2	1	0
+glutamate dehydrogenase 1, mitochondrial-like	PanTro_cluster1	0	0	0	0	3	0	0	0
+glutamate dehydrogenase 1, mitochondrial-like	PonAbe_PonPyg_cluster1	0	0	0	0	0	2	2	0
+glutamate dehydrogenase 1, mitochondrial-like	PonAbe_cluster1	0	0	0	0	0	2	0	0
+glutamate dehydrogenase 1, mitochondrial-like	PonPyg_cluster1	0	0	0	0	0	0	1	0
+keratin, type I cytoskeletal 18-like	PanPan_cluster1	0	0	0	2	0	0	0	0
+proline-rich protein, Y-linked	GorGor_cluster1	1	0	0	0	0	0	0	0
+proline-rich protein, Y-linked	PanTro_cluster1	0	0	0	0	5	0	0	0
+protein FAM47A-like	PonAbe_PonPyg_cluster1	0	0	0	0	0	2	2	0
+protein FAM47A-like	SymSyn_cluster1	0	0	0	0	0	0	0	1
+protein FRG1-like	GorGor_cluster1	1	0	0	0	0	0	0	0
+protein FRG1-like	PonAbe_cluster1	0	0	0	0	0	1	0	0
+protein FRG1-like	SymSyn_cluster1	0	0	0	0	0	0	0	2
+zinc finger protein 285-like	PonAbe_PonPyg_cluster1	0	0	0	0	0	1	1	0
+zinc finger protein 285-like	PonAbe_cluster1	0	0	0	0	0	1	0	0
+zinc finger protein 285-like	PonAbe_cluster2	0	0	0	0	0	1	0	0
+zinc finger protein 285-like	PonPyg_cluster1	0	0	0	0	0	0	1	0
