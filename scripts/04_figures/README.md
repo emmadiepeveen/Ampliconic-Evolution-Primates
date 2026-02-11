@@ -60,7 +60,7 @@ Generates supplementary figures 1, 4, 5 and 6.
 
 **Output:**
 - Supplementary Figure 1: Copy number and expression relationship
-- Supplementary Figure 4: Uses intermediate files generated during the creation of Supplementary Figures 5 and 6
-- Supplementary Figure 5: Gene family genomic organization
-- Supplementary Figure 6: Chromosomal distribution patterns
+- Supplementary Figure 4: Observed versus expected distance to palindrome. Uses intermediate files generated during the creation of Supplementary Figures 5 and 6
+- Supplementary Figure 5 + 6: Gene family genomic location X and Y 
+
 
