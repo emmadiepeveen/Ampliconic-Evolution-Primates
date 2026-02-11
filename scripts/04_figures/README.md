@@ -53,14 +53,15 @@ Generates supplementary figures 1, 4, 5 and 6.
 - Gene details with cluster information:
   - `data/intermediate/clusters/all_families_gene_details_with_clusters_X.tsv`
   - `data/intermediate/clusters/all_families_gene_details_with_clusters_Y.tsv`
-- Sequence annotation files from Makova et al., 2024:
+- Sequence annotation files from Makova et al. 2024( https://doi.org/10.1038/s41586-024-07473-2):
   - `data/raw/annotations/`
-- Palindrome annotation files from Makova et al., 2024:
+- Palindrome annotation files from Makova et al. 2024:
   - `data/raw/palindromes/`
 
 **Output:**
 - Supplementary Figure 1: Copy number and expression relationship
 - Supplementary Figure 4: Observed versus expected distance to palindrome. Uses intermediate files generated during the creation of Supplementary Figures 5 and 6
 - Supplementary Figure 5 + 6: Gene family genomic location X and Y 
+
 
 
