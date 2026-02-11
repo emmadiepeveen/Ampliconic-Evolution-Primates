@@ -67,5 +67,6 @@ Bootstrap dN/dS table (from 01_ampliconic_detection)
           ↓
 selection_heatmap_phylogenies.R
           ↓
-   Heatmaps + phylogeny plots
+   Heatmaps + phylogeny plots (Fig 4)
+
 
