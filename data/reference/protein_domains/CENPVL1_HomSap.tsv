@@ -1,0 +1,15 @@
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	22	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	23	30	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	PANTHER	PTHR28620	CENTROMERE PROTEIN V	94	257	7.4E-45	T	08-12-2025	IPR052355	Centromere protein V-like	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	31	35	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	35	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Gene3D	G3DSA:2.170.150.70	-	134	243	1.8E-25	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	36	272	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	MobiDBLite	mobidb-lite	consensus disorder prediction	1	17	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	MobiDBLite	mobidb-lite	consensus disorder prediction	1	23	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	Pfam	PF04828	Glutathione-dependent formaldehyde-activating enzyme	133	228	2.7E-11	T	08-12-2025	IPR006913	CENP-V/GFA domain	GO:0016846(InterPro)	MetaCyc:PWY-1801
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	MobiDBLite	mobidb-lite	consensus disorder prediction	79	90	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	SUPERFAMILY	SSF51316	Mss4-like	131	228	5.13E-26	T	08-12-2025	IPR011057	Mss4-like superfamily	-	Reactome:R-CEL-5676934|Reactome:R-DME-5676934|Reactome:R-DRE-5676934|Reactome:R-HSA-5676934|Reactome:R-MMU-5676934|Reactome:R-RNO-5676934|Reactome:R-SSC-5676934
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	MobiDBLite	mobidb-lite	consensus disorder prediction	240	272	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	MobiDBLite	mobidb-lite	consensus disorder prediction	65	95	-	T	08-12-2025	-	-	-	-
+CENPVL1_HomSap	7572f3dce5fdd5366d01c6cd372650b4	272	ProSiteProfiles	PS51891	CENP-V/GFA domain profile.	133	246	22.120399	T	08-12-2025	IPR006913	CENP-V/GFA domain	GO:0016846(InterPro)	MetaCyc:PWY-1801
