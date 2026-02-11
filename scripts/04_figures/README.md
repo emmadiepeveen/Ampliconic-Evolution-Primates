@@ -44,7 +44,21 @@ Creates Figure 2 of the manuscript, showing synteny patterns of ampliconic gene 
 - Figure 2 (synteny visualization)
 - Supplementary Figure 3 
 
-### 3. `supplementaryfigures.R`
+### 3. `Expression_pseudotime.ipynb`
+Analyzes expression patterns of ampliconic gene families across spermatogenesis pseudotime.
+
+**Input:**
+- Expression data across spermatogenesis:
+  - `data/raw/expression/posterior_predictions_7_clst.tsv`
+
+**Analysis:**
+Examines gene family expression patterns across stages of spermatogenesis in four primate species: bonobo, chimpanzee, human, and macaque.
+
+**Output:**
+- Supplementary Figure 2 (expression across pseudotime). 
+
+
+### 4. `supplementaryfigures.R`
 Generates supplementary figures 1, 4, 5 and 6. 
 
 **Input:**
@@ -62,6 +76,7 @@ Generates supplementary figures 1, 4, 5 and 6.
 - Supplementary Figure 1: Copy number and expression relationship
 - Supplementary Figure 4: Observed versus expected distance to palindrome. Uses intermediate files generated during the creation of Supplementary Figures 5 and 6
 - Supplementary Figure 5 + 6: Gene family genomic location X and Y 
+
 
 
 
