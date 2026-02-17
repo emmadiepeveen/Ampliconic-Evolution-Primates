@@ -1,0 +1,1140 @@
+gene	cluster	species	pred_species_mean_diff
+mc_ampl_ARMCX6	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_ARMCX6	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_ARMCX6	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_ARMCX6	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_ARMCX6	Leptotene	Bonobo	0.0
+mc_ampl_ARMCX6	Leptotene	Chimpanzee	0.0
+mc_ampl_ARMCX6	Leptotene	Human	0.0
+mc_ampl_ARMCX6	Round spermatids	Chimpanzee	0.0
+mc_ampl_ARMCX6	Elongated spermatids	Bonobo	0.0
+mc_ampl_ARMCX6	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_ARR3	Undifferentiated spermatogonia	Chimpanzee	0.0013490161144547
+mc_ampl_ARR3	Undifferentiated spermatogonia	Human	0.0013490161144547
+mc_ampl_ARR3	Undifferentiated spermatogonia	Macaque	0.0013490161144547
+mc_ampl_ARR3	Leptotene	Bonobo	0.0
+mc_ampl_ARR3	Leptotene	Chimpanzee	0.0
+mc_ampl_ARR3	Leptotene	Human	0.0
+mc_ampl_ARR3	Leptotene	Macaque	0.0
+mc_ampl_ARR3	Zygotene	Human	7.95693493945965e-06
+mc_ampl_ASB11	Undifferentiated spermatogonia	Bonobo	0.0307150209377092
+mc_ampl_ASB11	Undifferentiated spermatogonia	Chimpanzee	0.0307150209377092
+mc_ampl_ASB11	Undifferentiated spermatogonia	Human	0.0307150209377092
+mc_ampl_ASB11	Undifferentiated spermatogonia	Macaque	0.0307150209377092
+mc_ampl_ASB11	Zygotene	Macaque	0.2450542755682671
+mc_ampl_ASB11	Pachytene	Bonobo	0.1397532089676123
+mc_ampl_ASB11	Pachytene	Chimpanzee	0.1397532089676123
+mc_ampl_ASB11	Pachytene	Human	0.1397532089676123
+mc_ampl_ASB11	Secondary spermatocytes	Bonobo	0.068442206772778
+mc_ampl_ASB11	Secondary spermatocytes	Chimpanzee	0.068442206772778
+mc_ampl_AWAT1	Undifferentiated spermatogonia	Bonobo	0.0382156604349173
+mc_ampl_AWAT1	Undifferentiated spermatogonia	Chimpanzee	0.0382156604349173
+mc_ampl_AWAT1	Undifferentiated spermatogonia	Human	0.0382156604349173
+mc_ampl_AWAT1	Undifferentiated spermatogonia	Macaque	0.0382156604349173
+mc_ampl_AWAT1	Differentiated spermatogonia	Macaque	0.1103291019948308
+mc_ampl_AWAT1	Leptotene	Bonobo	0.0143717464467424
+mc_ampl_AWAT1	Leptotene	Human	0.0143717464467424
+mc_ampl_AWAT1	Zygotene	Macaque	0.0332854553732879
+mc_ampl_AWAT1	Pachytene	Macaque	0.0540590058506014
+mc_ampl_AWAT1	Secondary spermatocytes	Macaque	0.0572851527355273
+mc_ampl_BEX2	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_BEX2	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_BEX2	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_BEX2	Leptotene	Bonobo	0.0
+mc_ampl_BEX2	Leptotene	Chimpanzee	0.0
+mc_ampl_BEX2	Leptotene	Human	0.0
+mc_ampl_BEX2	Leptotene	Macaque	0.0
+mc_ampl_BEX2	Zygotene	Bonobo	0.0
+mc_ampl_BEX2	Zygotene	Human	0.0
+mc_ampl_BEX2	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_BEX2	Round spermatids	Bonobo	0.0
+mc_ampl_BEX2	Round spermatids	Chimpanzee	0.0
+mc_ampl_BEX2	Round spermatids	Human	0.0
+mc_ampl_BEX2	Elongated spermatids	Bonobo	0.0
+mc_ampl_BEX2	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_BEX3	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_BEX3	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_BEX3	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_BEX3	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_BEX3	Leptotene	Chimpanzee	0.0
+mc_ampl_BEX3	Leptotene	Human	0.0
+mc_ampl_BEX3	Leptotene	Macaque	0.0
+mc_ampl_BEX3	Round spermatids	Bonobo	0.0
+mc_ampl_BEX3	Round spermatids	Chimpanzee	0.0
+mc_ampl_BEX3	Round spermatids	Human	0.0
+mc_ampl_BEX3	Elongated spermatids	Bonobo	0.0
+mc_ampl_BEX3	Elongated spermatids	Human	0.0
+mc_ampl_BPY2B	Undifferentiated spermatogonia	Macaque	0.0074584935740148
+mc_ampl_BPY2B	Differentiated spermatogonia	Macaque	0.0203102633845924
+mc_ampl_BPY2B	Round spermatids	Bonobo	0.0
+mc_ampl_BPY2B	Round spermatids	Chimpanzee	0.0
+mc_ampl_BPY2B	Round spermatids	Human	0.0
+mc_ampl_BPY2B	Elongated spermatids	Macaque	0.0059026259944374
+mc_ampl_BRS3	Undifferentiated spermatogonia	Bonobo	0.0101372101826638
+mc_ampl_BRS3	Undifferentiated spermatogonia	Chimpanzee	0.0101372101826638
+mc_ampl_BRS3	Undifferentiated spermatogonia	Human	0.0101372101826638
+mc_ampl_BRS3	Undifferentiated spermatogonia	Macaque	0.0101372101826638
+mc_ampl_BRS3	Differentiated spermatogonia	Macaque	0.0365858847479887
+mc_ampl_BRS3	Leptotene	Bonobo	0.0259582086643615
+mc_ampl_BRS3	Leptotene	Chimpanzee	0.0259582086643615
+mc_ampl_BRS3	Leptotene	Macaque	0.0259582086643615
+mc_ampl_BRS3	Round spermatids	Human	0.0
+mc_ampl_CA5B	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CA5B	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CA5B	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CA5B	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_CA5B	Leptotene	Macaque	0.0
+mc_ampl_CA5B	Zygotene	Macaque	0.0124020938788165
+mc_ampl_CA5B	Secondary spermatocytes	Bonobo	0.0176686098761056
+mc_ampl_CA5B	Secondary spermatocytes	Chimpanzee	0.0176686098761056
+mc_ampl_CA5B	Secondary spermatocytes	Human	0.0176686098761056
+mc_ampl_CA5B	Secondary spermatocytes	Macaque	0.0176686098761056
+mc_ampl_CA5B	Round spermatids	Bonobo	0.0095992581259372
+mc_ampl_CA5B	Round spermatids	Chimpanzee	0.0095992581259372
+mc_ampl_CA5B	Round spermatids	Human	0.0095992581259372
+mc_ampl_CA5B	Round spermatids	Macaque	0.0095992581259372
+mc_ampl_CDY1	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_CDY1	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_CDY1	Secondary spermatocytes	Human	0.0
+mc_ampl_CDY1	Round spermatids	Bonobo	0.0
+mc_ampl_CDY1	Round spermatids	Chimpanzee	0.0
+mc_ampl_CDY1	Round spermatids	Human	0.0
+mc_ampl_CDY1	Round spermatids	Macaque	0.0
+mc_ampl_CENPVL3	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CENPVL3	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CENPVL3	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_CENPVL3	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CENPVL3	Leptotene	Bonobo	0.0
+mc_ampl_CENPVL3	Leptotene	Chimpanzee	0.0
+mc_ampl_CENPVL3	Secondary spermatocytes	Chimpanzee	0.0003809807808118
+mc_ampl_CENPVL3	Round spermatids	Chimpanzee	0.0003235823491127
+mc_ampl_CENPVL3	Round spermatids	Human	0.0003235823491127
+mc_ampl_CENPVL3	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_CHM	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CHM	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CHM	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CHM	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_CHM	Differentiated spermatogonia	Human	0.0
+mc_ampl_CHM	Leptotene	Macaque	0.0
+mc_ampl_CHM	Round spermatids	Bonobo	0.0
+mc_ampl_CLCN4	Undifferentiated spermatogonia	Bonobo	0.0047101338952392
+mc_ampl_CLCN4	Undifferentiated spermatogonia	Chimpanzee	0.0047101338952392
+mc_ampl_CLCN4	Undifferentiated spermatogonia	Human	0.0047101338952392
+mc_ampl_CLCN4	Undifferentiated spermatogonia	Macaque	0.0047101338952392
+mc_ampl_CLCN4	Leptotene	Bonobo	0.0
+mc_ampl_CLCN4	Zygotene	Chimpanzee	0.0
+mc_ampl_CLCN4	Zygotene	Macaque	0.0
+mc_ampl_CLCN4	Pachytene	Macaque	0.0224362345481589
+mc_ampl_CLCN4	Secondary spermatocytes	Bonobo	0.0417984193778384
+mc_ampl_CLCN4	Secondary spermatocytes	Macaque	0.0417984193778384
+mc_ampl_CLCN4	Round spermatids	Chimpanzee	0.0
+mc_ampl_CLCN4	Round spermatids	Human	0.0
+mc_ampl_CLCN4	Elongated spermatids	Macaque	0.0362104282197616
+mc_ampl_CSAG3	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CSAG3	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CSAG3	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CSAG3	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_CSAG3	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_CSAG3	Differentiated spermatogonia	Human	0.0
+mc_ampl_CSAG3	Leptotene	Bonobo	0.0116087730204093
+mc_ampl_CSAG3	Leptotene	Chimpanzee	0.0116087730204093
+mc_ampl_CSAG3	Leptotene	Human	0.0116087730204093
+mc_ampl_CSAG3	Leptotene	Macaque	0.0116087730204093
+mc_ampl_CSF2RA	Undifferentiated spermatogonia	Bonobo	0.0586225379051968
+mc_ampl_CSF2RA	Undifferentiated spermatogonia	Chimpanzee	0.0586225379051968
+mc_ampl_CSF2RA	Undifferentiated spermatogonia	Human	0.0586225379051968
+mc_ampl_CSF2RA	Undifferentiated spermatogonia	Macaque	0.0586225379051968
+mc_ampl_CSF2RA	Differentiated spermatogonia	Macaque	0.177307423869921
+mc_ampl_CSF2RA	Leptotene	Bonobo	0.0448762702994764
+mc_ampl_CSF2RA	Leptotene	Human	0.0448762702994764
+mc_ampl_CSF2RA	Zygotene	Chimpanzee	0.1153428839064938
+mc_ampl_CSF2RA	Zygotene	Macaque	0.1153428839064938
+mc_ampl_CSF2RA	Pachytene	Bonobo	0.1513874170124562
+mc_ampl_CSF2RA	Pachytene	Human	0.1513874170124562
+mc_ampl_CSF2RA	Pachytene	Macaque	0.1513874170124562
+mc_ampl_CSF2RA	Secondary spermatocytes	Bonobo	0.1347694644388311
+mc_ampl_CSF2RA	Secondary spermatocytes	Chimpanzee	0.1347694644388311
+mc_ampl_CSF2RA	Secondary spermatocytes	Human	0.1347694644388311
+mc_ampl_CSF2RA	Round spermatids	Human	0.1056434346417924
+mc_ampl_CT45A5	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CT45A5	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CT45A5	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_CT45A5	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_CT45A5	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CT45A5	Differentiated spermatogonia	Human	0.0
+mc_ampl_CT45A5	Differentiated spermatogonia	Macaque	0.0
+mc_ampl_CT45A5	Leptotene	Chimpanzee	0.0
+mc_ampl_CT45A5	Leptotene	Human	0.0
+mc_ampl_CT45A5	Leptotene	Macaque	0.0
+mc_ampl_CT47B1	Differentiated spermatogonia	Bonobo	0.1683434342074545
+mc_ampl_CT47B1	Differentiated spermatogonia	Human	0.1683434342074545
+mc_ampl_CT47B1	Differentiated spermatogonia	Macaque	0.1683434342074545
+mc_ampl_CT47B1	Leptotene	Bonobo	0.2948978148442062
+mc_ampl_CT47B1	Leptotene	Chimpanzee	0.2948978148442062
+mc_ampl_CT47B1	Leptotene	Human	0.2948978148442062
+mc_ampl_CT47B1	Leptotene	Macaque	0.2948978148442062
+mc_ampl_CT47B1	Round spermatids	Human	0.0
+mc_ampl_CT55	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CT55	Differentiated spermatogonia	Human	0.0261473732352221
+mc_ampl_CT55	Differentiated spermatogonia	Macaque	0.0261473732352221
+mc_ampl_CT55	Leptotene	Bonobo	0.0968751896808141
+mc_ampl_CT55	Leptotene	Chimpanzee	0.0968751896808141
+mc_ampl_CT55	Leptotene	Human	0.0968751896808141
+mc_ampl_CT55	Leptotene	Macaque	0.0968751896808141
+mc_ampl_CT83	Leptotene	Bonobo	0.0
+mc_ampl_CT83	Secondary spermatocytes	Human	0.0053578058351588
+mc_ampl_CT83	Round spermatids	Bonobo	0.0032459948547847
+mc_ampl_CT83	Round spermatids	Chimpanzee	0.0032459948547847
+mc_ampl_CT83	Round spermatids	Human	0.0032459948547847
+mc_ampl_CT83	Round spermatids	Macaque	0.0032459948547847
+mc_ampl_CT83	Elongated spermatids	Bonobo	0.0
+mc_ampl_CT83	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_CTAG1A	Undifferentiated spermatogonia	Bonobo	0.0623117646418304
+mc_ampl_CTAG1A	Undifferentiated spermatogonia	Chimpanzee	0.0623117646418304
+mc_ampl_CTAG1A	Undifferentiated spermatogonia	Human	0.0623117646418304
+mc_ampl_CTAG1A	Undifferentiated spermatogonia	Macaque	0.0623117646418304
+mc_ampl_CTAG1A	Differentiated spermatogonia	Bonobo	0.3236499425204871
+mc_ampl_CTAG1A	Differentiated spermatogonia	Macaque	0.3236499425204871
+mc_ampl_CTAG1A	Leptotene	Chimpanzee	0.2875448775314065
+mc_ampl_CTAG1A	Leptotene	Human	0.2875448775314065
+mc_ampl_CTAG1A	Leptotene	Macaque	0.2875448775314065
+mc_ampl_CXorf49B	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CXorf49B	Differentiated spermatogonia	Macaque	0.1885549583361204
+mc_ampl_CXorf49B	Leptotene	Bonobo	0.4173916615768354
+mc_ampl_CXorf49B	Leptotene	Chimpanzee	0.4173916615768354
+mc_ampl_CXorf49B	Leptotene	Human	0.4173916615768354
+mc_ampl_CXorf49B	Leptotene	Macaque	0.4173916615768354
+mc_ampl_CXorf49B	Zygotene	Human	0.0988495322435865
+mc_ampl_CXorf49B	Secondary spermatocytes	Bonobo	0.0624992062660659
+mc_ampl_CXorf49B	Secondary spermatocytes	Chimpanzee	0.0624992062660659
+mc_ampl_CXorf49B	Secondary spermatocytes	Macaque	0.0624992062660659
+mc_ampl_CXorf49B	Round spermatids	Bonobo	0.0358868231619787
+mc_ampl_CXorf49B	Round spermatids	Chimpanzee	0.0358868231619787
+mc_ampl_CXorf49B	Round spermatids	Human	0.0358868231619787
+mc_ampl_CXorf49B	Round spermatids	Macaque	0.0358868231619787
+mc_ampl_CXorf51A	Differentiated spermatogonia	Chimpanzee	0.0068275269074566
+mc_ampl_CXorf51A	Leptotene	Chimpanzee	0.0039256423055733
+mc_ampl_CXorf51A	Zygotene	Bonobo	0.0
+mc_ampl_CXorf51A	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_CXorf51A	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_CXorf51A	Secondary spermatocytes	Human	0.0
+mc_ampl_CXorf51A	Round spermatids	Bonobo	0.0
+mc_ampl_CXorf51A	Round spermatids	Chimpanzee	0.0
+mc_ampl_CXorf51A	Round spermatids	Human	0.0
+mc_ampl_CXorf51A	Round spermatids	Macaque	0.0
+mc_ampl_CXorf51A	Elongated spermatids	Bonobo	0.0
+mc_ampl_CXorf51A	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_CXorf51A	Elongated spermatids	Human	0.0
+mc_ampl_CYBB	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_CYBB	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_CYBB	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_CYBB	Leptotene	Human	0.0123805093786826
+mc_ampl_CYBB	Leptotene	Macaque	0.0123805093786826
+mc_ampl_CYBB	Zygotene	Chimpanzee	0.0309742208376074
+mc_ampl_CYBB	Zygotene	Macaque	0.0309742208376074
+mc_ampl_CYBB	Pachytene	Human	0.0201666801943227
+mc_ampl_CYBB	Secondary spermatocytes	Bonobo	0.018134299511121
+mc_ampl_CYBB	Secondary spermatocytes	Human	0.018134299511121
+mc_ampl_CYBB	Secondary spermatocytes	Macaque	0.018134299511121
+mc_ampl_CYBB	Round spermatids	Bonobo	0.0455723744410923
+mc_ampl_CYBB	Round spermatids	Human	0.0455723744410923
+mc_ampl_CYBB	Round spermatids	Macaque	0.0455723744410923
+mc_ampl_DAZ2	Undifferentiated spermatogonia	Bonobo	0.0181399510535596
+mc_ampl_DAZ2	Undifferentiated spermatogonia	Chimpanzee	0.0181399510535596
+mc_ampl_DAZ2	Undifferentiated spermatogonia	Human	0.0181399510535596
+mc_ampl_DAZ2	Undifferentiated spermatogonia	Macaque	0.0181399510535596
+mc_ampl_DAZ2	Differentiated spermatogonia	Chimpanzee	0.0816834009137491
+mc_ampl_DAZ2	Differentiated spermatogonia	Human	0.0816834009137491
+mc_ampl_DAZ2	Differentiated spermatogonia	Macaque	0.0816834009137491
+mc_ampl_DAZ2	Leptotene	Bonobo	0.0602327486513092
+mc_ampl_DAZ2	Pachytene	Macaque	0.0244577646002525
+mc_ampl_DCAF12L1	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_DCAF12L1	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_DCAF12L1	Differentiated spermatogonia	Human	0.0
+mc_ampl_DCAF12L1	Leptotene	Bonobo	0.0
+mc_ampl_DCAF12L1	Pachytene	Macaque	0.0147028228657722
+mc_ampl_DCAF12L1	Secondary spermatocytes	Bonobo	0.0141744429758447
+mc_ampl_DCAF12L1	Secondary spermatocytes	Macaque	0.0141744429758447
+mc_ampl_DCAF12L1	Round spermatids	Bonobo	0.0
+mc_ampl_DCAF12L1	Round spermatids	Chimpanzee	0.0
+mc_ampl_DCAF12L1	Round spermatids	Human	0.0
+mc_ampl_DCAF12L1	Elongated spermatids	Bonobo	0.0
+mc_ampl_DCAF8L2	Undifferentiated spermatogonia	Bonobo	0.0386739988933455
+mc_ampl_DCAF8L2	Undifferentiated spermatogonia	Chimpanzee	0.0386739988933455
+mc_ampl_DCAF8L2	Undifferentiated spermatogonia	Human	0.0386739988933455
+mc_ampl_DCAF8L2	Undifferentiated spermatogonia	Macaque	0.0386739988933455
+mc_ampl_DCAF8L2	Leptotene	Bonobo	0.0
+mc_ampl_DCAF8L2	Secondary spermatocytes	Macaque	0.0575006296940166
+mc_ampl_DCAF8L2	Round spermatids	Macaque	0.1032050487494122
+mc_ampl_DMRTC1B	Undifferentiated spermatogonia	Bonobo	0.0287771915355752
+mc_ampl_DMRTC1B	Undifferentiated spermatogonia	Chimpanzee	0.0287771915355752
+mc_ampl_DMRTC1B	Undifferentiated spermatogonia	Macaque	0.0287771915355752
+mc_ampl_DMRTC1B	Leptotene	Bonobo	0.0
+mc_ampl_DMRTC1B	Leptotene	Chimpanzee	0.0
+mc_ampl_DMRTC1B	Leptotene	Human	0.0
+mc_ampl_DMRTC1B	Pachytene	Macaque	0.0213161894756406
+mc_ampl_EOLA1	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_EOLA1	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_EOLA1	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_EOLA1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_EOLA1	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_EOLA1	Leptotene	Chimpanzee	0.0
+mc_ampl_EOLA1	Leptotene	Human	0.0
+mc_ampl_EOLA1	Leptotene	Macaque	0.0
+mc_ampl_EOLA1	Secondary spermatocytes	Chimpanzee	0.010218642342995
+mc_ampl_EOLA1	Secondary spermatocytes	Human	0.010218642342995
+mc_ampl_EOLA1	Secondary spermatocytes	Macaque	0.010218642342995
+mc_ampl_EOLA1	Round spermatids	Bonobo	0.0
+mc_ampl_EOLA1	Round spermatids	Chimpanzee	0.0
+mc_ampl_EOLA1	Round spermatids	Human	0.0
+mc_ampl_ETDB	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_ETDB	Secondary spermatocytes	Human	0.0
+mc_ampl_ETDB	Round spermatids	Bonobo	0.0
+mc_ampl_ETDB	Round spermatids	Chimpanzee	0.0
+mc_ampl_ETDB	Round spermatids	Human	0.0
+mc_ampl_ETDB	Elongated spermatids	Bonobo	0.0
+mc_ampl_F8A2	Undifferentiated spermatogonia	Bonobo	0.0003074755434387
+mc_ampl_F8A2	Undifferentiated spermatogonia	Chimpanzee	0.0003074755434387
+mc_ampl_F8A2	Undifferentiated spermatogonia	Human	0.0003074755434387
+mc_ampl_F8A2	Undifferentiated spermatogonia	Macaque	0.0003074755434387
+mc_ampl_F8A2	Differentiated spermatogonia	Bonobo	0.0024128980655661
+mc_ampl_F8A2	Differentiated spermatogonia	Chimpanzee	0.0024128980655661
+mc_ampl_F8A2	Differentiated spermatogonia	Macaque	0.0024128980655661
+mc_ampl_FAM156A	Undifferentiated spermatogonia	Bonobo	0.0058333637238265
+mc_ampl_FAM156A	Undifferentiated spermatogonia	Chimpanzee	0.0058333637238265
+mc_ampl_FAM156A	Undifferentiated spermatogonia	Human	0.0058333637238265
+mc_ampl_FAM156A	Undifferentiated spermatogonia	Macaque	0.0058333637238265
+mc_ampl_FAM156A	Differentiated spermatogonia	Chimpanzee	0.0437718662427175
+mc_ampl_FAM156A	Differentiated spermatogonia	Human	0.0437718662427175
+mc_ampl_FAM156A	Differentiated spermatogonia	Macaque	0.0437718662427175
+mc_ampl_FAM156A	Pachytene	Macaque	0.0214022234825014
+mc_ampl_FAM236B	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_FAM236B	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_FAM236B	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_FAM236B	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_FAM236B	Leptotene	Chimpanzee	0.0
+mc_ampl_FAM236B	Leptotene	Human	0.0
+mc_ampl_FAM236B	Zygotene	Bonobo	0.0
+mc_ampl_FAM236B	Round spermatids	Bonobo	0.0
+mc_ampl_FAM236B	Round spermatids	Chimpanzee	0.0
+mc_ampl_FAM236B	Round spermatids	Human	0.0
+mc_ampl_FAM236B	Elongated spermatids	Bonobo	0.0
+mc_ampl_FAM236B	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_FAM236B	Elongated spermatids	Human	0.0
+mc_ampl_FAM47B	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_FAM47B	Zygotene	Chimpanzee	0.0
+mc_ampl_FAM47B	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_FAM47B	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_FAM47B	Secondary spermatocytes	Human	0.0
+mc_ampl_FAM47B	Round spermatids	Bonobo	0.0
+mc_ampl_FAM47B	Round spermatids	Chimpanzee	0.0
+mc_ampl_FAM47B	Round spermatids	Human	0.0
+mc_ampl_FAM47B	Round spermatids	Macaque	0.0
+mc_ampl_FAM9C	Differentiated spermatogonia	Bonobo	0.2064011563428043
+mc_ampl_FAM9C	Differentiated spermatogonia	Chimpanzee	0.2064011563428043
+mc_ampl_FAM9C	Differentiated spermatogonia	Human	0.2064011563428043
+mc_ampl_FAM9C	Differentiated spermatogonia	Macaque	0.2064011563428043
+mc_ampl_FAM9C	Leptotene	Bonobo	0.2769862286601413
+mc_ampl_FAM9C	Leptotene	Chimpanzee	0.2769862286601413
+mc_ampl_FAM9C	Leptotene	Human	0.2769862286601413
+mc_ampl_FAM9C	Leptotene	Macaque	0.2769862286601413
+mc_ampl_FRMPD3	Undifferentiated spermatogonia	Bonobo	0.1566326785207513
+mc_ampl_FRMPD3	Undifferentiated spermatogonia	Chimpanzee	0.1566326785207513
+mc_ampl_FRMPD3	Undifferentiated spermatogonia	Human	0.1566326785207513
+mc_ampl_FRMPD3	Undifferentiated spermatogonia	Macaque	0.1566326785207513
+mc_ampl_FRMPD3	Differentiated spermatogonia	Macaque	0.4340255532848438
+mc_ampl_FRMPD3	Leptotene	Bonobo	0.2015478504298172
+mc_ampl_FRMPD3	Leptotene	Chimpanzee	0.2015478504298172
+mc_ampl_FRMPD3	Zygotene	Human	0.3790911889262008
+mc_ampl_FRMPD3	Zygotene	Macaque	0.3790911889262008
+mc_ampl_FRMPD3	Pachytene	Human	0.2449975915773952
+mc_ampl_FRMPD3	Secondary spermatocytes	Bonobo	0.193238038730356
+mc_ampl_FRMPD3	Secondary spermatocytes	Human	0.193238038730356
+mc_ampl_FRMPD3	Round spermatids	Bonobo	0.169821261767622
+mc_ampl_FRMPD3	Round spermatids	Chimpanzee	0.169821261767622
+mc_ampl_FRMPD3	Round spermatids	Human	0.169821261767622
+mc_ampl_FTHL17	Differentiated spermatogonia	Macaque	0.0201696938951193
+mc_ampl_FTHL17	Leptotene	Bonobo	0.072669118622668
+mc_ampl_FTHL17	Leptotene	Human	0.072669118622668
+mc_ampl_FTHL17	Leptotene	Macaque	0.072669118622668
+mc_ampl_FTHL17	Zygotene	Macaque	0.0814621248988505
+mc_ampl_FTHL17	Secondary spermatocytes	Macaque	0.0249121669891041
+mc_ampl_FTHL17	Round spermatids	Macaque	0.0197045003655055
+mc_ampl_GAGE12H	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_GAGE12H	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_GAGE12H	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_GAGE12H	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_GAGE12H	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_GAGE12H	Differentiated spermatogonia	Human	0.0
+mc_ampl_GAGE12H	Leptotene	Chimpanzee	0.0
+mc_ampl_GAGE12H	Leptotene	Human	0.0
+mc_ampl_GAGE12H	Leptotene	Macaque	0.0
+mc_ampl_GAGE12H	Round spermatids	Bonobo	0.0
+mc_ampl_GAGE12H	Round spermatids	Chimpanzee	0.0
+mc_ampl_GAGE12H	Elongated spermatids	Bonobo	0.0
+mc_ampl_GAGE12H	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_GLRA2	Undifferentiated spermatogonia	Bonobo	0.0366932329484456
+mc_ampl_GLRA2	Undifferentiated spermatogonia	Chimpanzee	0.0366932329484456
+mc_ampl_GLRA2	Undifferentiated spermatogonia	Human	0.0366932329484456
+mc_ampl_GLRA2	Undifferentiated spermatogonia	Macaque	0.0366932329484456
+mc_ampl_GLRA2	Leptotene	Human	0.0352998708616736
+mc_ampl_GLRA2	Zygotene	Bonobo	0.0852589822890084
+mc_ampl_GLRA2	Zygotene	Chimpanzee	0.0852589822890084
+mc_ampl_GLRA2	Zygotene	Macaque	0.0852589822890084
+mc_ampl_GLRA2	Round spermatids	Human	0.0703761904423262
+mc_ampl_GLRA2	Round spermatids	Macaque	0.0703761904423262
+mc_ampl_GPR174	Undifferentiated spermatogonia	Bonobo	1.1049925048548418e-05
+mc_ampl_GPR174	Undifferentiated spermatogonia	Chimpanzee	1.1049925048548418e-05
+mc_ampl_GPR174	Undifferentiated spermatogonia	Human	1.1049925048548418e-05
+mc_ampl_GPR174	Undifferentiated spermatogonia	Macaque	1.1049925048548418e-05
+mc_ampl_GPR174	Zygotene	Bonobo	0.0018163223699596
+mc_ampl_GPR174	Pachytene	Macaque	0.0024721457455517
+mc_ampl_GPR174	Elongated spermatids	Human	0.0
+mc_ampl_GPRASP2	Undifferentiated spermatogonia	Bonobo	0.0282984559163499
+mc_ampl_GPRASP2	Undifferentiated spermatogonia	Chimpanzee	0.0282984559163499
+mc_ampl_GPRASP2	Undifferentiated spermatogonia	Human	0.0282984559163499
+mc_ampl_GPRASP2	Undifferentiated spermatogonia	Macaque	0.0282984559163499
+mc_ampl_GPRASP2	Differentiated spermatogonia	Macaque	0.0593696454972696
+mc_ampl_GPRASP2	Leptotene	Bonobo	0.0027862431894561
+mc_ampl_GPRASP2	Leptotene	Chimpanzee	0.0027862431894561
+mc_ampl_GPRASP2	Leptotene	Human	0.0027862431894561
+mc_ampl_GPRASP2	Zygotene	Macaque	0.0379163752518147
+mc_ampl_GPRASP2	Round spermatids	Bonobo	0.0110047315479643
+mc_ampl_GPRASP2	Round spermatids	Chimpanzee	0.0110047315479643
+mc_ampl_GPRASP2	Round spermatids	Human	0.0110047315479643
+mc_ampl_H2AL3	Leptotene	Macaque	0.1208223132632462
+mc_ampl_H2AL3	Zygotene	Human	0.0965940556792733
+mc_ampl_H2AL3	Secondary spermatocytes	Bonobo	0.1109242761875399
+mc_ampl_H2AL3	Secondary spermatocytes	Chimpanzee	0.1109242761875399
+mc_ampl_H2AL3	Secondary spermatocytes	Human	0.1109242761875399
+mc_ampl_H2AL3	Secondary spermatocytes	Macaque	0.1109242761875399
+mc_ampl_H2AL3	Round spermatids	Bonobo	0.0
+mc_ampl_H2AL3	Round spermatids	Chimpanzee	0.0
+mc_ampl_H2AL3	Round spermatids	Human	0.0
+mc_ampl_H2AL3	Round spermatids	Macaque	0.0
+mc_ampl_H2BW2	Differentiated spermatogonia	Macaque	0.0205484798505417
+mc_ampl_H2BW2	Leptotene	Bonobo	0.0749319377756595
+mc_ampl_H2BW2	Leptotene	Human	0.0749319377756595
+mc_ampl_H2BW2	Leptotene	Macaque	0.0749319377756595
+mc_ampl_H2BW2	Secondary spermatocytes	Bonobo	0.0238630356115163
+mc_ampl_H2BW2	Secondary spermatocytes	Chimpanzee	0.0238630356115163
+mc_ampl_H2BW2	Secondary spermatocytes	Macaque	0.0238630356115163
+mc_ampl_H2BW2	Round spermatids	Bonobo	0.0
+mc_ampl_H2BW2	Round spermatids	Chimpanzee	0.0
+mc_ampl_H2BW2	Round spermatids	Human	0.0
+mc_ampl_HMGB3	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_HMGB3	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_HMGB3	Leptotene	Macaque	0.037958165487626
+mc_ampl_HMGB3	Round spermatids	Bonobo	0.0
+mc_ampl_HMGB3	Round spermatids	Chimpanzee	0.0
+mc_ampl_HMGB3	Round spermatids	Human	0.0
+mc_ampl_HMGB3	Round spermatids	Macaque	0.0
+mc_ampl_HMGB3	Elongated spermatids	Macaque	0.0086042316770037
+mc_ampl_HSFX2	Round spermatids	Bonobo	0.0
+mc_ampl_HSFX2	Round spermatids	Chimpanzee	0.0
+mc_ampl_HSFX2	Round spermatids	Human	0.0
+mc_ampl_HSFX2	Round spermatids	Macaque	0.0
+mc_ampl_HSFX2	Elongated spermatids	Bonobo	0.0
+mc_ampl_HSFX2	Elongated spermatids	Human	0.0
+mc_ampl_HSFX3	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_HSFX3	Round spermatids	Bonobo	0.0
+mc_ampl_HSFX3	Round spermatids	Chimpanzee	0.0
+mc_ampl_HSFX3	Round spermatids	Human	0.0
+mc_ampl_HSFX3	Round spermatids	Macaque	0.0
+mc_ampl_HSFY2	Round spermatids	Human	0.0854250551338308
+mc_ampl_HSFY2	Round spermatids	Macaque	0.0854250551338308
+mc_ampl_IKBKG	Undifferentiated spermatogonia	Bonobo	0.017173819884718
+mc_ampl_IKBKG	Undifferentiated spermatogonia	Chimpanzee	0.017173819884718
+mc_ampl_IKBKG	Undifferentiated spermatogonia	Human	0.017173819884718
+mc_ampl_IKBKG	Undifferentiated spermatogonia	Macaque	0.017173819884718
+mc_ampl_IKBKG	Differentiated spermatogonia	Bonobo	0.0566507265822774
+mc_ampl_IKBKG	Differentiated spermatogonia	Macaque	0.0566507265822774
+mc_ampl_IKBKG	Round spermatids	Human	0.0
+mc_ampl_IL1RAPL1	Undifferentiated spermatogonia	Bonobo	0.276147571738542
+mc_ampl_IL1RAPL1	Undifferentiated spermatogonia	Chimpanzee	0.276147571738542
+mc_ampl_IL1RAPL1	Undifferentiated spermatogonia	Human	0.276147571738542
+mc_ampl_IL1RAPL1	Undifferentiated spermatogonia	Macaque	0.276147571738542
+mc_ampl_IL1RAPL1	Differentiated spermatogonia	Macaque	0.793482664257825
+mc_ampl_IL1RAPL1	Leptotene	Bonobo	0.3402777769255375
+mc_ampl_IL1RAPL1	Zygotene	Macaque	0.9085582339756052
+mc_ampl_IL1RAPL1	Secondary spermatocytes	Chimpanzee	0.5453796569108307
+mc_ampl_IL1RAPL1	Secondary spermatocytes	Human	0.5453796569108307
+mc_ampl_IL1RAPL1	Round spermatids	Human	0.468116928329544
+mc_ampl_KRBOX4	Undifferentiated spermatogonia	Bonobo	0.006788474549456
+mc_ampl_KRBOX4	Undifferentiated spermatogonia	Chimpanzee	0.006788474549456
+mc_ampl_KRBOX4	Undifferentiated spermatogonia	Human	0.006788474549456
+mc_ampl_KRBOX4	Undifferentiated spermatogonia	Macaque	0.006788474549456
+mc_ampl_KRBOX4	Leptotene	Bonobo	0.0
+mc_ampl_KRBOX4	Leptotene	Chimpanzee	0.0
+mc_ampl_KRBOX4	Zygotene	Macaque	0.0152036494973226
+mc_ampl_MAGEB16	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_MAGEB16	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_MAGEB16	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_MAGEB16	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_MAGEB16	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_MAGEB16	Differentiated spermatogonia	Human	0.0
+mc_ampl_MAGEB16	Leptotene	Bonobo	0.0
+mc_ampl_MAGEB16	Leptotene	Chimpanzee	0.0
+mc_ampl_MAGEB16	Leptotene	Human	0.0
+mc_ampl_MAGEB16	Leptotene	Macaque	0.0
+mc_ampl_MAGEB16	Pachytene	Macaque	0.3487536180906397
+mc_ampl_MAGEB16	Secondary spermatocytes	Chimpanzee	0.3261321988568624
+mc_ampl_MAGEB16	Round spermatids	Bonobo	0.0024021952077484
+mc_ampl_MAGEB16	Round spermatids	Chimpanzee	0.0024021952077484
+mc_ampl_MAGEB16	Round spermatids	Human	0.0024021952077484
+mc_ampl_MAOA	Undifferentiated spermatogonia	Bonobo	0.0208433981841148
+mc_ampl_MAOA	Undifferentiated spermatogonia	Chimpanzee	0.0208433981841148
+mc_ampl_MAOA	Undifferentiated spermatogonia	Human	0.0208433981841148
+mc_ampl_MAOA	Undifferentiated spermatogonia	Macaque	0.0208433981841148
+mc_ampl_MAOA	Zygotene	Macaque	0.0683582477556909
+mc_ampl_MAOA	Secondary spermatocytes	Bonobo	0.0298253337024043
+mc_ampl_MAOA	Secondary spermatocytes	Chimpanzee	0.0298253337024043
+mc_ampl_MAOA	Secondary spermatocytes	Human	0.0298253337024043
+mc_ampl_MAOA	Secondary spermatocytes	Macaque	0.0298253337024043
+mc_ampl_MAOA	Round spermatids	Bonobo	0.1015434823740174
+mc_ampl_MAOA	Round spermatids	Chimpanzee	0.1015434823740174
+mc_ampl_MAOA	Round spermatids	Human	0.1015434823740174
+mc_ampl_MAOA	Round spermatids	Macaque	0.1015434823740174
+mc_ampl_MID1	Undifferentiated spermatogonia	Bonobo	0.1067511396213108
+mc_ampl_MID1	Undifferentiated spermatogonia	Chimpanzee	0.1067511396213108
+mc_ampl_MID1	Undifferentiated spermatogonia	Human	0.1067511396213108
+mc_ampl_MID1	Undifferentiated spermatogonia	Macaque	0.1067511396213108
+mc_ampl_MID1	Differentiated spermatogonia	Macaque	0.3324552851936288
+mc_ampl_MID1	Leptotene	Bonobo	0.1571224148526377
+mc_ampl_MID1	Leptotene	Human	0.1571224148526377
+mc_ampl_MID1	Zygotene	Macaque	0.3501794718621311
+mc_ampl_MID1	Pachytene	Bonobo	0.4055705710850777
+mc_ampl_MID1	Pachytene	Macaque	0.4055705710850777
+mc_ampl_MID1	Secondary spermatocytes	Bonobo	0.462286902415102
+mc_ampl_MID1	Secondary spermatocytes	Macaque	0.462286902415102
+mc_ampl_MID1	Round spermatids	Chimpanzee	0.4326138541735189
+mc_ampl_MID1	Round spermatids	Human	0.4326138541735189
+mc_ampl_MID1	Round spermatids	Macaque	0.4326138541735189
+mc_ampl_MPP1	Undifferentiated spermatogonia	Bonobo	0.0713759851435662
+mc_ampl_MPP1	Undifferentiated spermatogonia	Chimpanzee	0.0713759851435662
+mc_ampl_MPP1	Undifferentiated spermatogonia	Human	0.0713759851435662
+mc_ampl_MPP1	Undifferentiated spermatogonia	Macaque	0.0713759851435662
+mc_ampl_MPP1	Leptotene	Bonobo	0.1505964045041308
+mc_ampl_MPP1	Leptotene	Chimpanzee	0.1505964045041308
+mc_ampl_MPP1	Leptotene	Human	0.1505964045041308
+mc_ampl_MPP1	Zygotene	Human	0.1258044521121539
+mc_ampl_MPP1	Secondary spermatocytes	Bonobo	0.1708396117799617
+mc_ampl_MPP1	Round spermatids	Bonobo	0.1927912101594641
+mc_ampl_MPP1	Round spermatids	Chimpanzee	0.1927912101594641
+mc_ampl_MPP1	Round spermatids	Human	0.1927912101594641
+mc_ampl_MPP1	Round spermatids	Macaque	0.1927912101594641
+mc_ampl_MTMR1	Undifferentiated spermatogonia	Bonobo	0.0433919425223104
+mc_ampl_MTMR1	Undifferentiated spermatogonia	Chimpanzee	0.0433919425223104
+mc_ampl_MTMR1	Undifferentiated spermatogonia	Human	0.0433919425223104
+mc_ampl_MTMR1	Undifferentiated spermatogonia	Macaque	0.0433919425223104
+mc_ampl_MTMR1	Differentiated spermatogonia	Macaque	0.128353691500689
+mc_ampl_MTMR1	Leptotene	Bonobo	0.0221711530794714
+mc_ampl_MTMR1	Leptotene	Human	0.0221711530794714
+mc_ampl_MTMR1	Zygotene	Macaque	0.0540302733446059
+mc_ampl_MTMR1	Round spermatids	Bonobo	0.0673041193368778
+mc_ampl_MTMR1	Round spermatids	Chimpanzee	0.0673041193368778
+mc_ampl_MTMR1	Round spermatids	Human	0.0673041193368778
+mc_ampl_MTMR1	Round spermatids	Macaque	0.0673041193368778
+mc_ampl_NLGN4X	Undifferentiated spermatogonia	Bonobo	0.0889028879083987
+mc_ampl_NLGN4X	Undifferentiated spermatogonia	Chimpanzee	0.0889028879083987
+mc_ampl_NLGN4X	Undifferentiated spermatogonia	Human	0.0889028879083987
+mc_ampl_NLGN4X	Undifferentiated spermatogonia	Macaque	0.0889028879083987
+mc_ampl_NLGN4X	Leptotene	Bonobo	0.0
+mc_ampl_NLGN4X	Leptotene	Human	0.0
+mc_ampl_NLGN4X	Zygotene	Macaque	0.1135068067884084
+mc_ampl_NLGN4X	Round spermatids	Chimpanzee	0.0867161896747267
+mc_ampl_NLGN4X	Round spermatids	Human	0.0867161896747267
+mc_ampl_NLGN4X	Elongated spermatids	Human	0.0379837150400478
+mc_ampl_NUDT10	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_NUDT10	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_NUDT10	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_NUDT10	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_NUDT10	Differentiated spermatogonia	Human	0.0
+mc_ampl_NUDT10	Leptotene	Chimpanzee	0.0
+mc_ampl_NUDT10	Zygotene	Bonobo	0.0
+mc_ampl_NUDT10	Round spermatids	Chimpanzee	0.0
+mc_ampl_NUDT10	Round spermatids	Human	0.0
+mc_ampl_NUDT10	Elongated spermatids	Bonobo	0.0
+mc_ampl_NUDT10	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_NXF3	Undifferentiated spermatogonia	Bonobo	0.0350252292347251
+mc_ampl_NXF3	Undifferentiated spermatogonia	Chimpanzee	0.0350252292347251
+mc_ampl_NXF3	Undifferentiated spermatogonia	Human	0.0350252292347251
+mc_ampl_NXF3	Undifferentiated spermatogonia	Macaque	0.0350252292347251
+mc_ampl_NXF3	Differentiated spermatogonia	Human	0.1523222156939968
+mc_ampl_NXF3	Differentiated spermatogonia	Macaque	0.1523222156939968
+mc_ampl_NXF3	Leptotene	Bonobo	0.0785961347131301
+mc_ampl_NXF3	Leptotene	Chimpanzee	0.0785961347131301
+mc_ampl_NXF3	Leptotene	Human	0.0785961347131301
+mc_ampl_NXF3	Round spermatids	Bonobo	0.0
+mc_ampl_NXF3	Round spermatids	Chimpanzee	0.0
+mc_ampl_NXF3	Round spermatids	Human	0.0
+mc_ampl_OPN1LW	Undifferentiated spermatogonia	Bonobo	0.0011163688824775
+mc_ampl_OPN1LW	Undifferentiated spermatogonia	Chimpanzee	0.0011163688824775
+mc_ampl_OPN1LW	Undifferentiated spermatogonia	Human	0.0011163688824775
+mc_ampl_OPN1LW	Undifferentiated spermatogonia	Macaque	0.0011163688824775
+mc_ampl_OPN1LW	Differentiated spermatogonia	Chimpanzee	0.0082388642020751
+mc_ampl_OPN1LW	Leptotene	Macaque	0.0082090622536463
+mc_ampl_OPN1LW	Pachytene	Macaque	0.0080429526468393
+mc_ampl_OPN1LW	Secondary spermatocytes	Macaque	0.0111462857898262
+mc_ampl_OPN1LW	Round spermatids	Chimpanzee	0.0029289179322357
+mc_ampl_PABIR2	Undifferentiated spermatogonia	Bonobo	0.0049485954478742
+mc_ampl_PABIR2	Undifferentiated spermatogonia	Chimpanzee	0.0049485954478742
+mc_ampl_PABIR2	Undifferentiated spermatogonia	Human	0.0049485954478742
+mc_ampl_PABIR2	Differentiated spermatogonia	Bonobo	0.0046226519379677
+mc_ampl_PABIR2	Leptotene	Bonobo	0.0
+mc_ampl_PABIR2	Leptotene	Chimpanzee	0.0
+mc_ampl_PABIR2	Leptotene	Human	0.0
+mc_ampl_PABIR2	Zygotene	Macaque	0.008578524111756
+mc_ampl_PABIR2	Pachytene	Macaque	0.0394904512477878
+mc_ampl_PABIR2	Secondary spermatocytes	Bonobo	0.0648865408534657
+mc_ampl_PABIR2	Secondary spermatocytes	Chimpanzee	0.0648865408534657
+mc_ampl_PABIR2	Secondary spermatocytes	Human	0.0648865408534657
+mc_ampl_PABIR2	Secondary spermatocytes	Macaque	0.0648865408534657
+mc_ampl_PABIR2	Round spermatids	Bonobo	0.1117696305671423
+mc_ampl_PABIR2	Round spermatids	Chimpanzee	0.1117696305671423
+mc_ampl_PABIR2	Round spermatids	Human	0.1117696305671423
+mc_ampl_PABIR2	Round spermatids	Macaque	0.1117696305671423
+mc_ampl_PABIR2	Elongated spermatids	Macaque	0.237166407660412
+mc_ampl_PABPC1L2A	Round spermatids	Bonobo	0.0999232557235327
+mc_ampl_PABPC1L2A	Round spermatids	Chimpanzee	0.0999232557235327
+mc_ampl_PABPC1L2A	Round spermatids	Human	0.0999232557235327
+mc_ampl_PABPC1L2A	Round spermatids	Macaque	0.0999232557235327
+mc_ampl_PABPC1L2A	Elongated spermatids	Human	0.0
+mc_ampl_PAGE5	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_PAGE5	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_PAGE5	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_PAGE5	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_PAGE5	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_PAGE5	Leptotene	Chimpanzee	0.0
+mc_ampl_PAGE5	Leptotene	Human	0.0
+mc_ampl_PAGE5	Leptotene	Macaque	0.0
+mc_ampl_PAGE5	Zygotene	Bonobo	0.0
+mc_ampl_PAGE5	Round spermatids	Bonobo	0.0
+mc_ampl_PAGE5	Round spermatids	Chimpanzee	0.0
+mc_ampl_PAGE5	Round spermatids	Human	0.0
+mc_ampl_PAGE5	Elongated spermatids	Macaque	0.0161316946518629
+mc_ampl_PGAM4	Undifferentiated spermatogonia	Bonobo	0.0065552153435511
+mc_ampl_PGAM4	Undifferentiated spermatogonia	Chimpanzee	0.0065552153435511
+mc_ampl_PGAM4	Undifferentiated spermatogonia	Human	0.0065552153435511
+mc_ampl_PGAM4	Undifferentiated spermatogonia	Macaque	0.0065552153435511
+mc_ampl_PGAM4	Differentiated spermatogonia	Bonobo	0.0163688099312254
+mc_ampl_PGAM4	Differentiated spermatogonia	Chimpanzee	0.0163688099312254
+mc_ampl_PGAM4	Leptotene	Human	0.0134624209667559
+mc_ampl_PGAM4	Zygotene	Bonobo	0.0046580498983817
+mc_ampl_PGAM4	Round spermatids	Bonobo	0.0112430641128073
+mc_ampl_PGAM4	Round spermatids	Chimpanzee	0.0112430641128073
+mc_ampl_PGAM4	Round spermatids	Macaque	0.0112430641128073
+mc_ampl_PHKA2	Undifferentiated spermatogonia	Bonobo	0.0299622118794528
+mc_ampl_PHKA2	Undifferentiated spermatogonia	Chimpanzee	0.0299622118794528
+mc_ampl_PHKA2	Undifferentiated spermatogonia	Human	0.0299622118794528
+mc_ampl_PHKA2	Undifferentiated spermatogonia	Macaque	0.0299622118794528
+mc_ampl_PHKA2	Differentiated spermatogonia	Chimpanzee	0.0720059708993699
+mc_ampl_PHKA2	Differentiated spermatogonia	Macaque	0.0720059708993699
+mc_ampl_PHKA2	Leptotene	Bonobo	0.0
+mc_ampl_PHKA2	Zygotene	Macaque	0.0139243541384644
+mc_ampl_PHKA2	Pachytene	Macaque	0.0716765292392674
+mc_ampl_PHKA2	Secondary spermatocytes	Bonobo	0.0797513004657993
+mc_ampl_PHKA2	Secondary spermatocytes	Chimpanzee	0.0797513004657993
+mc_ampl_PHKA2	Secondary spermatocytes	Human	0.0797513004657993
+mc_ampl_PHKA2	Secondary spermatocytes	Macaque	0.0797513004657993
+mc_ampl_PHKA2	Round spermatids	Bonobo	0.0516260189091942
+mc_ampl_PHKA2	Round spermatids	Chimpanzee	0.0516260189091942
+mc_ampl_PHKA2	Round spermatids	Human	0.0516260189091942
+mc_ampl_PHKA2	Round spermatids	Macaque	0.0516260189091942
+mc_ampl_PNMA6A	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_PNMA6A	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_PNMA6A	Differentiated spermatogonia	Human	0.0
+mc_ampl_PNMA6A	Differentiated spermatogonia	Macaque	0.0
+mc_ampl_PNMA6A	Leptotene	Bonobo	0.0054233802747879
+mc_ampl_PNMA6A	Leptotene	Chimpanzee	0.0054233802747879
+mc_ampl_PNMA6A	Leptotene	Human	0.0054233802747879
+mc_ampl_PNMA6A	Leptotene	Macaque	0.0054233802747879
+mc_ampl_PNMA6A	Secondary spermatocytes	Chimpanzee	0.0086313473392213
+mc_ampl_PNMA6A	Secondary spermatocytes	Human	0.0086313473392213
+mc_ampl_PNMA6A	Secondary spermatocytes	Macaque	0.0086313473392213
+mc_ampl_PNMA6A	Round spermatids	Chimpanzee	0.0
+mc_ampl_PNMA6A	Round spermatids	Human	0.0
+mc_ampl_PRDX4	Differentiated spermatogonia	Bonobo	0.1167588131426512
+mc_ampl_PRDX4	Differentiated spermatogonia	Chimpanzee	0.1167588131426512
+mc_ampl_PRDX4	Differentiated spermatogonia	Human	0.1167588131426512
+mc_ampl_PRDX4	Differentiated spermatogonia	Macaque	0.1167588131426512
+mc_ampl_PRDX4	Leptotene	Chimpanzee	0.0309032090141813
+mc_ampl_PRDX4	Leptotene	Macaque	0.0309032090141813
+mc_ampl_PRDX4	Round spermatids	Bonobo	0.0
+mc_ampl_PRDX4	Round spermatids	Chimpanzee	0.0
+mc_ampl_PRDX4	Round spermatids	Human	0.0
+mc_ampl_PRDX4	Round spermatids	Macaque	0.0
+mc_ampl_PRDX4	Elongated spermatids	Bonobo	0.0711605275820259
+mc_ampl_PRDX4	Elongated spermatids	Chimpanzee	0.0711605275820259
+mc_ampl_PRDX4	Elongated spermatids	Macaque	0.0711605275820259
+mc_ampl_PRKX	Undifferentiated spermatogonia	Bonobo	0.1122439030028837
+mc_ampl_PRKX	Undifferentiated spermatogonia	Chimpanzee	0.1122439030028837
+mc_ampl_PRKX	Undifferentiated spermatogonia	Human	0.1122439030028837
+mc_ampl_PRKX	Undifferentiated spermatogonia	Macaque	0.1122439030028837
+mc_ampl_PRKX	Zygotene	Macaque	0.1074065286286924
+mc_ampl_PRKX	Pachytene	Bonobo	0.1013868293633262
+mc_ampl_PRKX	Secondary spermatocytes	Bonobo	0.1162506052398602
+mc_ampl_PRKX	Secondary spermatocytes	Chimpanzee	0.1162506052398602
+mc_ampl_PRKX	Secondary spermatocytes	Macaque	0.1162506052398602
+mc_ampl_PRKX	Round spermatids	Human	0.2314962741104783
+mc_ampl_PRKX	Round spermatids	Macaque	0.2314962741104783
+mc_ampl_PRKX	Elongated spermatids	Chimpanzee	0.1436438409334053
+mc_ampl_PRKX	Elongated spermatids	Human	0.1436438409334053
+mc_ampl_PRPS2	Undifferentiated spermatogonia	Bonobo	0.0079397564236858
+mc_ampl_PRPS2	Undifferentiated spermatogonia	Chimpanzee	0.0079397564236858
+mc_ampl_PRPS2	Undifferentiated spermatogonia	Human	0.0079397564236858
+mc_ampl_PRPS2	Undifferentiated spermatogonia	Macaque	0.0079397564236858
+mc_ampl_PRPS2	Leptotene	Chimpanzee	0.0047286009491395
+mc_ampl_PRPS2	Zygotene	Bonobo	0.0041630367406072
+mc_ampl_PRPS2	Secondary spermatocytes	Chimpanzee	0.0056305193119789
+mc_ampl_PRPS2	Round spermatids	Bonobo	0.0
+mc_ampl_PRPS2	Round spermatids	Chimpanzee	0.0
+mc_ampl_PRPS2	Round spermatids	Human	0.0
+mc_ampl_PRPS2	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_PRY2	Round spermatids	Human	0.0047249369949945
+mc_ampl_PWWP4	Zygotene	Chimpanzee	0.001058593381999
+mc_ampl_PWWP4	Pachytene	Macaque	0.006086256342375
+mc_ampl_PWWP4	Secondary spermatocytes	Bonobo	0.0044177156106245
+mc_ampl_PWWP4	Secondary spermatocytes	Chimpanzee	0.0044177156106245
+mc_ampl_PWWP4	Secondary spermatocytes	Human	0.0044177156106245
+mc_ampl_PWWP4	Secondary spermatocytes	Macaque	0.0044177156106245
+mc_ampl_PWWP4	Round spermatids	Bonobo	0.0
+mc_ampl_PWWP4	Round spermatids	Chimpanzee	0.0
+mc_ampl_PWWP4	Round spermatids	Human	0.0
+mc_ampl_RAB40AL	Undifferentiated spermatogonia	Bonobo	0.0080314203149706
+mc_ampl_RAB40AL	Undifferentiated spermatogonia	Chimpanzee	0.0080314203149706
+mc_ampl_RAB40AL	Undifferentiated spermatogonia	Human	0.0080314203149706
+mc_ampl_RAB40AL	Differentiated spermatogonia	Macaque	0.0344398938127677
+mc_ampl_RAB40AL	Pachytene	Macaque	0.0264914986462696
+mc_ampl_RAB40AL	Round spermatids	Human	0.0062074226196947
+mc_ampl_RAB9A	Undifferentiated spermatogonia	Bonobo	0.0058847907922317
+mc_ampl_RAB9A	Undifferentiated spermatogonia	Chimpanzee	0.0058847907922317
+mc_ampl_RAB9A	Undifferentiated spermatogonia	Human	0.0058847907922317
+mc_ampl_RAB9A	Undifferentiated spermatogonia	Macaque	0.0058847907922317
+mc_ampl_RAB9A	Differentiated spermatogonia	Human	0.0064210590428479
+mc_ampl_RAB9A	Leptotene	Chimpanzee	0.0032381610325889
+mc_ampl_RAB9A	Zygotene	Bonobo	0.0285372401360768
+mc_ampl_RAB9A	Zygotene	Macaque	0.0285372401360768
+mc_ampl_RAB9A	Secondary spermatocytes	Bonobo	0.016362255033491
+mc_ampl_RAB9A	Secondary spermatocytes	Macaque	0.016362255033491
+mc_ampl_RAB9A	Round spermatids	Macaque	0.0107450826588982
+mc_ampl_RAB9A	Elongated spermatids	Macaque	0.0271534340921147
+mc_ampl_RBMX	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RBMX	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RBMX	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_RBMX	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RBMX	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RBMX	Differentiated spermatogonia	Human	0.0
+mc_ampl_RBMX	Secondary spermatocytes	Chimpanzee	0.0233655784420439
+mc_ampl_RBMX	Secondary spermatocytes	Macaque	0.0233655784420439
+mc_ampl_RBMX	Round spermatids	Chimpanzee	0.0
+mc_ampl_RBMX	Round spermatids	Human	0.0
+mc_ampl_RBMY1A1	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RBMY1A1	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RBMY1A1	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_RBMY1A1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RBMY1A1	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RBMY1A1	Differentiated spermatogonia	Human	0.0
+mc_ampl_RBMY1A1	Leptotene	Chimpanzee	0.0
+mc_ampl_RBMY1A1	Leptotene	Human	0.0
+mc_ampl_RBMY1A1	Leptotene	Macaque	0.0
+mc_ampl_RHOXF2	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RHOXF2	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RHOXF2	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_RHOXF2	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RHOXF2	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RHOXF2	Differentiated spermatogonia	Human	0.0
+mc_ampl_RHOXF2	Leptotene	Macaque	0.0
+mc_ampl_RPL36A_HNRNPH2	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RPL36A_HNRNPH2	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RPL36A_HNRNPH2	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_RPL36A_HNRNPH2	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RPL36A_HNRNPH2	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RPL36A_HNRNPH2	Differentiated spermatogonia	Human	0.0
+mc_ampl_RPL36A_HNRNPH2	Zygotene	Macaque	0.0380830174818197
+mc_ampl_RPL36A_HNRNPH2	Secondary spermatocytes	Bonobo	0.009934762971945
+mc_ampl_RPL36A_HNRNPH2	Round spermatids	Bonobo	0.0
+mc_ampl_RPL36A_HNRNPH2	Round spermatids	Chimpanzee	0.0
+mc_ampl_RPL36A_HNRNPH2	Round spermatids	Human	0.0
+mc_ampl_RPS4Y1	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RPS4Y1	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RPS4Y1	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_RPS4Y1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RPS4Y1	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RPS4Y1	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RPS4Y1	Differentiated spermatogonia	Human	0.0
+mc_ampl_RPS4Y1	Leptotene	Macaque	0.0
+mc_ampl_RPS4Y1	Round spermatids	Chimpanzee	0.0
+mc_ampl_RPS4Y1	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_RPS4Y1	Elongated spermatids	Human	0.0
+mc_ampl_RPS6KA3	Undifferentiated spermatogonia	Bonobo	0.0088551752847591
+mc_ampl_RPS6KA3	Undifferentiated spermatogonia	Chimpanzee	0.0088551752847591
+mc_ampl_RPS6KA3	Undifferentiated spermatogonia	Human	0.0088551752847591
+mc_ampl_RPS6KA3	Undifferentiated spermatogonia	Macaque	0.0088551752847591
+mc_ampl_RPS6KA3	Differentiated spermatogonia	Chimpanzee	0.0538483487894192
+mc_ampl_RPS6KA3	Leptotene	Bonobo	0.0651647411917632
+mc_ampl_RPS6KA3	Leptotene	Human	0.0651647411917632
+mc_ampl_RPS6KA3	Leptotene	Macaque	0.0651647411917632
+mc_ampl_RPS6KA3	Round spermatids	Chimpanzee	0.0689070255968444
+mc_ampl_RTL8B	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_RTL8B	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_RTL8B	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_RTL8B	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_RTL8B	Differentiated spermatogonia	Human	0.0
+mc_ampl_RTL8B	Leptotene	Chimpanzee	0.0
+mc_ampl_RTL8B	Leptotene	Human	0.0
+mc_ampl_RTL8B	Zygotene	Bonobo	0.0
+mc_ampl_RTL8B	Round spermatids	Chimpanzee	0.0
+mc_ampl_RTL8B	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_RTL8B	Elongated spermatids	Human	0.0
+mc_ampl_SAGE1	Undifferentiated spermatogonia	Bonobo	0.0056286756636281
+mc_ampl_SAGE1	Undifferentiated spermatogonia	Chimpanzee	0.0056286756636281
+mc_ampl_SAGE1	Undifferentiated spermatogonia	Human	0.0056286756636281
+mc_ampl_SAGE1	Undifferentiated spermatogonia	Macaque	0.0056286756636281
+mc_ampl_SAGE1	Leptotene	Bonobo	0.0
+mc_ampl_SAGE1	Leptotene	Chimpanzee	0.0
+mc_ampl_SAGE1	Zygotene	Macaque	0.0020864355839784
+mc_ampl_SAGE1	Pachytene	Macaque	0.0156061934201175
+mc_ampl_SAGE1	Secondary spermatocytes	Bonobo	0.0096538387615522
+mc_ampl_SAGE1	Round spermatids	Bonobo	0.0059659581150797
+mc_ampl_SAGE1	Round spermatids	Human	0.0059659581150797
+mc_ampl_SAGE1	Round spermatids	Macaque	0.0059659581150797
+mc_ampl_SATL1	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_SATL1	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_SATL1	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_SATL1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_SATL1	Differentiated spermatogonia	Bonobo	0.0203022528200776
+mc_ampl_SATL1	Differentiated spermatogonia	Human	0.0203022528200776
+mc_ampl_SATL1	Differentiated spermatogonia	Macaque	0.0203022528200776
+mc_ampl_SATL1	Leptotene	Chimpanzee	0.046305111216325
+mc_ampl_SATL1	Leptotene	Human	0.046305111216325
+mc_ampl_SATL1	Leptotene	Macaque	0.046305111216325
+mc_ampl_SATL1	Secondary spermatocytes	Macaque	0.0115176029144608
+mc_ampl_SATL1	Round spermatids	Bonobo	0.0009127451746383
+mc_ampl_SATL1	Round spermatids	Chimpanzee	0.0009127451746383
+mc_ampl_SATL1	Round spermatids	Human	0.0009127451746383
+mc_ampl_SATL1	Round spermatids	Macaque	0.0009127451746383
+mc_ampl_SATL1	Elongated spermatids	Human	0.0435826886797979
+mc_ampl_SATL1	Elongated spermatids	Macaque	0.0435826886797979
+mc_ampl_SLC25A5	Undifferentiated spermatogonia	Bonobo	0.0057176356015637
+mc_ampl_SLC25A5	Undifferentiated spermatogonia	Chimpanzee	0.0057176356015637
+mc_ampl_SLC25A5	Undifferentiated spermatogonia	Human	0.0057176356015637
+mc_ampl_SLC25A5	Undifferentiated spermatogonia	Macaque	0.0057176356015637
+mc_ampl_SLC25A5	Differentiated spermatogonia	Bonobo	0.0459784500197101
+mc_ampl_SLC25A5	Differentiated spermatogonia	Human	0.0459784500197101
+mc_ampl_SLC25A5	Differentiated spermatogonia	Macaque	0.0459784500197101
+mc_ampl_SLC25A5	Round spermatids	Bonobo	0.0174765291948416
+mc_ampl_SLC25A5	Round spermatids	Chimpanzee	0.0174765291948416
+mc_ampl_SLC25A5	Round spermatids	Human	0.0174765291948416
+mc_ampl_SLC25A5	Round spermatids	Macaque	0.0174765291948416
+mc_ampl_SLC25A5	Elongated spermatids	Bonobo	0.0802517268745946
+mc_ampl_SLC25A5	Elongated spermatids	Human	0.0802517268745946
+mc_ampl_SLC25A5	Elongated spermatids	Macaque	0.0802517268745946
+mc_ampl_SLC25A53	Undifferentiated spermatogonia	Bonobo	0.0114434801582956
+mc_ampl_SLC25A53	Undifferentiated spermatogonia	Chimpanzee	0.0114434801582956
+mc_ampl_SLC25A53	Undifferentiated spermatogonia	Human	0.0114434801582956
+mc_ampl_SLC25A53	Undifferentiated spermatogonia	Macaque	0.0114434801582956
+mc_ampl_SLC25A53	Leptotene	Chimpanzee	0.0
+mc_ampl_SLC25A53	Zygotene	Bonobo	0.0354587194763233
+mc_ampl_SLC25A53	Zygotene	Macaque	0.0354587194763233
+mc_ampl_SLC25A53	Secondary spermatocytes	Bonobo	0.0157969842803058
+mc_ampl_SLC25A53	Secondary spermatocytes	Chimpanzee	0.0157969842803058
+mc_ampl_SLC25A53	Secondary spermatocytes	Human	0.0157969842803058
+mc_ampl_SLC25A53	Round spermatids	Bonobo	0.0102079768710747
+mc_ampl_SLC25A53	Round spermatids	Chimpanzee	0.0102079768710747
+mc_ampl_SLC25A53	Round spermatids	Human	0.0102079768710747
+mc_ampl_SMIM10	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_SMIM10	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_SMIM10	Leptotene	Chimpanzee	0.0
+mc_ampl_SMIM10	Leptotene	Human	0.0
+mc_ampl_SMIM10	Zygotene	Human	0.0
+mc_ampl_SMIM10	Round spermatids	Chimpanzee	0.0
+mc_ampl_SPACA5	Round spermatids	Bonobo	0.0
+mc_ampl_SPACA5	Round spermatids	Chimpanzee	0.0
+mc_ampl_SPACA5	Round spermatids	Human	0.0
+mc_ampl_SPACA5	Round spermatids	Macaque	0.0
+mc_ampl_SPANXN5	Differentiated spermatogonia	Chimpanzee	0.0104846043025581
+mc_ampl_SPANXN5	Leptotene	Chimpanzee	0.0
+mc_ampl_SPANXN5	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_SPANXN5	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_SPANXN5	Secondary spermatocytes	Human	0.0
+mc_ampl_SPANXN5	Round spermatids	Bonobo	0.0
+mc_ampl_SPANXN5	Round spermatids	Chimpanzee	0.0
+mc_ampl_SPANXN5	Round spermatids	Human	0.0
+mc_ampl_SPANXN5	Round spermatids	Macaque	0.0
+mc_ampl_SPANXN5	Elongated spermatids	Bonobo	0.0
+mc_ampl_SPANXN5	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_SPANXN5	Elongated spermatids	Human	0.0
+mc_ampl_SPANXN5	Elongated spermatids	Macaque	0.0
+mc_ampl_SPIN3	Undifferentiated spermatogonia	Bonobo	0.0046763928856723
+mc_ampl_SPIN3	Undifferentiated spermatogonia	Chimpanzee	0.0046763928856723
+mc_ampl_SPIN3	Undifferentiated spermatogonia	Human	0.0046763928856723
+mc_ampl_SPIN3	Undifferentiated spermatogonia	Macaque	0.0046763928856723
+mc_ampl_SPIN3	Secondary spermatocytes	Bonobo	0.0010622521578975
+mc_ampl_SPIN3	Round spermatids	Bonobo	0.0033434800139293
+mc_ampl_SSX4	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_SSX4	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_SSX4	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_SSX4	Differentiated spermatogonia	Human	0.0
+mc_ampl_SSX4	Differentiated spermatogonia	Macaque	0.0
+mc_ampl_SSX4	Leptotene	Chimpanzee	0.0
+mc_ampl_SSX4	Leptotene	Human	0.0
+mc_ampl_SSX4	Leptotene	Macaque	0.0
+mc_ampl_SSX4	Secondary spermatocytes	Macaque	0.0259368366435795
+mc_ampl_SUPT20HL2	Undifferentiated spermatogonia	Bonobo	0.001455835953256
+mc_ampl_SUPT20HL2	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_SUPT20HL2	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_SUPT20HL2	Differentiated spermatogonia	Human	0.0
+mc_ampl_SUPT20HL2	Leptotene	Bonobo	0.007626260290787
+mc_ampl_SUPT20HL2	Leptotene	Chimpanzee	0.007626260290787
+mc_ampl_SUPT20HL2	Leptotene	Human	0.007626260290787
+mc_ampl_SUPT20HL2	Leptotene	Macaque	0.007626260290787
+mc_ampl_TCEAL1	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TCEAL1	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL1	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TCEAL1	Differentiated spermatogonia	Human	0.0
+mc_ampl_TCEAL1	Leptotene	Human	0.0
+mc_ampl_TCEAL1	Leptotene	Macaque	0.0
+mc_ampl_TCEAL1	Zygotene	Chimpanzee	0.0
+mc_ampl_TCEAL1	Round spermatids	Bonobo	0.0
+mc_ampl_TCEAL1	Round spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL1	Round spermatids	Human	0.0
+mc_ampl_TCEAL1	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL1	Elongated spermatids	Human	0.0
+mc_ampl_TCEAL2	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL2	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TCEAL2	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TCEAL2	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TCEAL2	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL2	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TCEAL2	Leptotene	Chimpanzee	0.0
+mc_ampl_TCEAL2	Zygotene	Bonobo	0.0
+mc_ampl_TCEAL2	Zygotene	Human	0.0
+mc_ampl_TCEAL2	Round spermatids	Bonobo	0.0
+mc_ampl_TCEAL2	Round spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL2	Elongated spermatids	Chimpanzee	0.0532348877630236
+mc_ampl_TCEAL2	Elongated spermatids	Macaque	0.0532348877630236
+mc_ampl_TCEAL5	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL5	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TCEAL5	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TCEAL5	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL5	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TCEAL5	Leptotene	Chimpanzee	0.0
+mc_ampl_TCEAL5	Zygotene	Bonobo	0.0
+mc_ampl_TCEAL5	Zygotene	Chimpanzee	0.0
+mc_ampl_TCEAL5	Zygotene	Human	0.0
+mc_ampl_TCEAL5	Round spermatids	Bonobo	0.0
+mc_ampl_TCEAL5	Round spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL5	Round spermatids	Human	0.0
+mc_ampl_TCEAL5	Elongated spermatids	Bonobo	0.0
+mc_ampl_TCEAL5	Elongated spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL5	Elongated spermatids	Human	0.0
+mc_ampl_TCEAL8	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL8	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TCEAL8	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TCEAL8	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_TCEAL8	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TCEAL8	Leptotene	Bonobo	0.000366805274484
+mc_ampl_TCEAL8	Leptotene	Chimpanzee	0.000366805274484
+mc_ampl_TCEAL8	Zygotene	Human	0.0
+mc_ampl_TCEAL8	Round spermatids	Bonobo	0.0
+mc_ampl_TCEAL8	Round spermatids	Chimpanzee	0.0
+mc_ampl_TCEAL8	Elongated spermatids	Human	0.0
+mc_ampl_TCP11X1	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TCP11X1	Differentiated spermatogonia	Bonobo	0.0005505540167984
+mc_ampl_TCP11X1	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_TCP11X1	Secondary spermatocytes	Human	0.0
+mc_ampl_TCP11X1	Round spermatids	Bonobo	0.0
+mc_ampl_TCP11X1	Round spermatids	Chimpanzee	0.0
+mc_ampl_TCP11X1	Round spermatids	Human	0.0
+mc_ampl_TCP11X1	Elongated spermatids	Macaque	0.0
+mc_ampl_TEX13B	Round spermatids	Bonobo	0.0652041755554143
+mc_ampl_TEX13B	Round spermatids	Chimpanzee	0.0652041755554143
+mc_ampl_TEX13B	Round spermatids	Human	0.0652041755554143
+mc_ampl_TEX13B	Round spermatids	Macaque	0.0652041755554143
+mc_ampl_TEX13C	Differentiated spermatogonia	Bonobo	0.0033247258399184
+mc_ampl_TEX13C	Differentiated spermatogonia	Human	0.0033247258399184
+mc_ampl_TEX13C	Differentiated spermatogonia	Macaque	0.0033247258399184
+mc_ampl_TEX13C	Leptotene	Bonobo	0.0062432668475604
+mc_ampl_TEX13C	Leptotene	Chimpanzee	0.0062432668475604
+mc_ampl_TEX13C	Leptotene	Human	0.0062432668475604
+mc_ampl_TEX13C	Leptotene	Macaque	0.0062432668475604
+mc_ampl_TEX13C	Round spermatids	Bonobo	0.0073523184830414
+mc_ampl_TEX13C	Round spermatids	Chimpanzee	0.0073523184830414
+mc_ampl_TEX13C	Round spermatids	Human	0.0073523184830414
+mc_ampl_TEX13C	Round spermatids	Macaque	0.0073523184830414
+mc_ampl_TEX28	Undifferentiated spermatogonia	Bonobo	0.0128035820475274
+mc_ampl_TEX28	Undifferentiated spermatogonia	Chimpanzee	0.0128035820475274
+mc_ampl_TEX28	Undifferentiated spermatogonia	Human	0.0128035820475274
+mc_ampl_TEX28	Differentiated spermatogonia	Macaque	0.0707514751479017
+mc_ampl_TEX28	Leptotene	Bonobo	0.0863423258443416
+mc_ampl_TEX28	Leptotene	Chimpanzee	0.0863423258443416
+mc_ampl_TEX28	Leptotene	Macaque	0.0863423258443416
+mc_ampl_TEX28	Secondary spermatocytes	Human	0.0084514145970535
+mc_ampl_TEX28	Secondary spermatocytes	Macaque	0.0084514145970535
+mc_ampl_TEX28	Round spermatids	Bonobo	0.0014092162932313
+mc_ampl_TEX28	Round spermatids	Chimpanzee	0.0014092162932313
+mc_ampl_TEX28	Round spermatids	Human	0.0014092162932313
+mc_ampl_TEX28	Round spermatids	Macaque	0.0014092162932313
+mc_ampl_TEX28	Elongated spermatids	Bonobo	0.016419904537865
+mc_ampl_TEX28	Elongated spermatids	Macaque	0.016419904537865
+mc_ampl_TFDP3	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TFDP3	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TFDP3	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TFDP3	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TFDP3	Differentiated spermatogonia	Human	0.0
+mc_ampl_TFDP3	Leptotene	Bonobo	0.0
+mc_ampl_TFDP3	Leptotene	Chimpanzee	0.0
+mc_ampl_TFDP3	Leptotene	Human	0.0
+mc_ampl_TFDP3	Leptotene	Macaque	0.0
+mc_ampl_TFDP3	Secondary spermatocytes	Human	0.0007531486186364
+mc_ampl_TFDP3	Round spermatids	Human	0.0
+mc_ampl_TMEM185A	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TMEM185A	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TMEM185A	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TMEM185A	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TMEM185A	Leptotene	Macaque	0.0025400376536738
+mc_ampl_TMSB15B	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TMSB15B	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TMSB15B	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TMSB15B	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TMSB15B	Differentiated spermatogonia	Human	0.0
+mc_ampl_TMSB15B	Leptotene	Chimpanzee	0.0539759782996558
+mc_ampl_TMSB15B	Leptotene	Human	0.0539759782996558
+mc_ampl_TMSB15B	Leptotene	Macaque	0.0539759782996558
+mc_ampl_TMSB15B	Zygotene	Bonobo	0.0
+mc_ampl_TMSB15B	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_TMSB15B	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_TMSB15B	Round spermatids	Bonobo	0.0
+mc_ampl_TMSB15B	Round spermatids	Chimpanzee	0.0
+mc_ampl_TMSB15B	Round spermatids	Human	0.0
+mc_ampl_TMSB15B	Elongated spermatids	Bonobo	0.0498666733766008
+mc_ampl_TMSB15B	Elongated spermatids	Human	0.0498666733766008
+mc_ampl_TMSB15B	Elongated spermatids	Macaque	0.0498666733766008
+mc_ampl_TRO	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TRO	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TRO	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TRO	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TRO	Leptotene	Bonobo	0.0
+mc_ampl_TRO	Leptotene	Chimpanzee	0.0
+mc_ampl_TRO	Leptotene	Human	0.0
+mc_ampl_TRO	Leptotene	Macaque	0.0
+mc_ampl_TRO	Round spermatids	Bonobo	0.0062009396297786
+mc_ampl_TRO	Round spermatids	Chimpanzee	0.0062009396297786
+mc_ampl_TRO	Elongated spermatids	Macaque	0.0482741431357152
+mc_ampl_TSC22D3	Undifferentiated spermatogonia	Bonobo	0.0032405666106084
+mc_ampl_TSC22D3	Undifferentiated spermatogonia	Chimpanzee	0.0032405666106084
+mc_ampl_TSC22D3	Differentiated spermatogonia	Macaque	0.0262208169040506
+mc_ampl_TSC22D3	Leptotene	Bonobo	0.0748440823421725
+mc_ampl_TSC22D3	Leptotene	Chimpanzee	0.0748440823421725
+mc_ampl_TSC22D3	Leptotene	Human	0.0748440823421725
+mc_ampl_TSC22D3	Leptotene	Macaque	0.0748440823421725
+mc_ampl_TSC22D3	Round spermatids	Bonobo	0.0061358316752638
+mc_ampl_TSC22D3	Round spermatids	Chimpanzee	0.0061358316752638
+mc_ampl_TSC22D3	Round spermatids	Human	0.0061358316752638
+mc_ampl_TSC22D3	Round spermatids	Macaque	0.0061358316752638
+mc_ampl_TSPAN7	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_TSPAN7	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_TSPAN7	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_TSPAN7	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_TSPAN7	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_TSPAN7	Leptotene	Macaque	0.0175698835721668
+mc_ampl_TSPAN7	Zygotene	Bonobo	0.0
+mc_ampl_TSPAN7	Pachytene	Human	0.015031931548285
+mc_ampl_TSPAN7	Pachytene	Macaque	0.015031931548285
+mc_ampl_TSPAN7	Secondary spermatocytes	Human	0.0338194612985746
+mc_ampl_TSPAN7	Secondary spermatocytes	Macaque	0.0338194612985746
+mc_ampl_TSPAN7	Round spermatids	Bonobo	0.0
+mc_ampl_TSPAN7	Round spermatids	Chimpanzee	0.0
+mc_ampl_TSPAN7	Round spermatids	Human	0.0
+mc_ampl_TSPAN7	Round spermatids	Macaque	0.0
+mc_ampl_TSPAN7	Elongated spermatids	Bonobo	0.080757024557757
+mc_ampl_TSPAN7	Elongated spermatids	Chimpanzee	0.080757024557757
+mc_ampl_TSPAN7	Elongated spermatids	Human	0.080757024557757
+mc_ampl_TSPAN7	Elongated spermatids	Macaque	0.080757024557757
+mc_ampl_TSPY9	Undifferentiated spermatogonia	Bonobo	0.0299616025733713
+mc_ampl_TSPY9	Undifferentiated spermatogonia	Chimpanzee	0.0299616025733713
+mc_ampl_TSPY9	Undifferentiated spermatogonia	Human	0.0299616025733713
+mc_ampl_TSPY9	Differentiated spermatogonia	Bonobo	0.1569830617716621
+mc_ampl_TSPY9	Differentiated spermatogonia	Human	0.1569830617716621
+mc_ampl_TSPY9	Differentiated spermatogonia	Macaque	0.1569830617716621
+mc_ampl_USP51	Undifferentiated spermatogonia	Bonobo	0.0050507898985718
+mc_ampl_USP51	Undifferentiated spermatogonia	Chimpanzee	0.0050507898985718
+mc_ampl_USP51	Undifferentiated spermatogonia	Macaque	0.0050507898985718
+mc_ampl_USP51	Differentiated spermatogonia	Human	0.0027707954881494
+mc_ampl_USP51	Leptotene	Bonobo	0.0
+mc_ampl_USP51	Leptotene	Chimpanzee	0.0
+mc_ampl_USP51	Leptotene	Human	0.0
+mc_ampl_USP51	Pachytene	Macaque	0.0081694416500932
+mc_ampl_USP51	Secondary spermatocytes	Macaque	0.009766267956406
+mc_ampl_VCX2	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_VCX2	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_VCX2	Differentiated spermatogonia	Human	0.0
+mc_ampl_VCX2	Leptotene	Bonobo	0.1832451673591862
+mc_ampl_VCX2	Leptotene	Chimpanzee	0.1832451673591862
+mc_ampl_VCX2	Leptotene	Human	0.1832451673591862
+mc_ampl_VCX2	Leptotene	Macaque	0.1832451673591862
+mc_ampl_VCX2	Secondary spermatocytes	Bonobo	0.0
+mc_ampl_VCX2	Secondary spermatocytes	Chimpanzee	0.0
+mc_ampl_VCX2	Secondary spermatocytes	Human	0.0
+mc_ampl_VCX2	Secondary spermatocytes	Macaque	0.0
+mc_ampl_VCX2	Round spermatids	Bonobo	0.0
+mc_ampl_VCX2	Round spermatids	Chimpanzee	0.0
+mc_ampl_VCX2	Round spermatids	Human	0.0
+mc_ampl_VCY1B	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_VCY1B	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_VCY1B	Differentiated spermatogonia	Human	0.0670871590949163
+mc_ampl_VCY1B	Leptotene	Human	0.4855222172994225
+mc_ampl_VCY1B	Leptotene	Macaque	0.4855222172994225
+mc_ampl_VCY1B	Secondary spermatocytes	Macaque	0.0853596191334358
+mc_ampl_VCY1B	Round spermatids	Human	0.0310838970372808
+mc_ampl_VCY1B	Elongated spermatids	Macaque	0.220038779428477
+mc_ampl_XAGE1A	Undifferentiated spermatogonia	Bonobo	0.0046861918571625
+mc_ampl_XAGE1A	Undifferentiated spermatogonia	Chimpanzee	0.0046861918571625
+mc_ampl_XAGE1A	Undifferentiated spermatogonia	Human	0.0046861918571625
+mc_ampl_XAGE1A	Undifferentiated spermatogonia	Macaque	0.0046861918571625
+mc_ampl_XAGE1A	Differentiated spermatogonia	Bonobo	0.048507568692343
+mc_ampl_XAGE1A	Differentiated spermatogonia	Human	0.048507568692343
+mc_ampl_XAGE1A	Leptotene	Chimpanzee	0.0630661342687121
+mc_ampl_XAGE1A	Leptotene	Human	0.0630661342687121
+mc_ampl_XAGE1A	Leptotene	Macaque	0.0630661342687121
+mc_ampl_XAGE1A	Round spermatids	Human	0.0
+mc_ampl_XAGE1A	Elongated spermatids	Human	0.0
+mc_ampl_YY2	Undifferentiated spermatogonia	Bonobo	0.0222941435882316
+mc_ampl_YY2	Undifferentiated spermatogonia	Chimpanzee	0.0222941435882316
+mc_ampl_YY2	Undifferentiated spermatogonia	Human	0.0222941435882316
+mc_ampl_YY2	Undifferentiated spermatogonia	Macaque	0.0222941435882316
+mc_ampl_YY2	Differentiated spermatogonia	Bonobo	0.0367883922277257
+mc_ampl_YY2	Differentiated spermatogonia	Chimpanzee	0.0367883922277257
+mc_ampl_YY2	Differentiated spermatogonia	Human	0.0367883922277257
+mc_ampl_YY2	Differentiated spermatogonia	Macaque	0.0367883922277257
+mc_ampl_YY2	Leptotene	Bonobo	0.0
+mc_ampl_YY2	Zygotene	Macaque	0.0498297173093527
+mc_ampl_YY2	Round spermatids	Bonobo	0.0185488355232986
+mc_ampl_ZCCHC12	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_ZCCHC12	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_ZCCHC12	Differentiated spermatogonia	Human	0.0
+mc_ampl_ZCCHC12	Leptotene	Bonobo	0.0
+mc_ampl_ZCCHC12	Leptotene	Chimpanzee	0.0
+mc_ampl_ZCCHC12	Leptotene	Human	0.0
+mc_ampl_ZNF711	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_ZNF711	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_ZNF711	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_ZNF711	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_ZNF711	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_ZNF711	Differentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_ZNF711	Differentiated spermatogonia	Human	0.0
+mc_ampl_ZNF711	Secondary spermatocytes	Chimpanzee	0.0123959847596353
+mc_ampl_ZNF711	Secondary spermatocytes	Macaque	0.0123959847596353
+mc_ampl_ZNF711	Round spermatids	Chimpanzee	0.0012470197949619
+mc_ampl_ZNF711	Round spermatids	Human	0.0012470197949619
+mc_ampl_ZNF711	Round spermatids	Macaque	0.0012470197949619
+mc_ampl_ZNF711	Elongated spermatids	Macaque	0.0134873478207463
+mc_ampl_ZXDB	Undifferentiated spermatogonia	Bonobo	0.0
+mc_ampl_ZXDB	Undifferentiated spermatogonia	Chimpanzee	0.0
+mc_ampl_ZXDB	Undifferentiated spermatogonia	Human	0.0
+mc_ampl_ZXDB	Undifferentiated spermatogonia	Macaque	0.0
+mc_ampl_ZXDB	Differentiated spermatogonia	Bonobo	0.0
+mc_ampl_ZXDB	Differentiated spermatogonia	Human	0.0
+mc_ampl_ZXDB	Leptotene	Chimpanzee	0.0005157644269648
