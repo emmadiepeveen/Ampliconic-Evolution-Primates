@@ -49,10 +49,11 @@ Analyzes expression patterns of ampliconic gene families across spermatogenesis 
 
 **Input:**
 - Expression data across spermatogenesis:
-  - `data/raw/expression/posterior_predictions_7_clst.tsv`
+  - `data/raw/expression/predictions_clst_7_changes_cluster_per_species.tsv`
 
 **Analysis:**
 Examines gene family expression patterns across stages of spermatogenesis in four primate species: bonobo, chimpanzee, human, and macaque.
+**NOTE**: For the expression analysis completely, please refer to this github page for all codes: https://github.com/mtxellrb/xy_spermatogenesis_primates 
 
 **Output:**
 - Supplementary Figure 2 (expression across pseudotime). 
@@ -76,6 +77,7 @@ Generates supplementary figures 1, 4, 5 and 6.
 - Supplementary Figure 1: Copy number and expression relationship
 - Supplementary Figure 4: Observed versus expected distance to palindrome. Uses intermediate files generated during the creation of Supplementary Figures 5 and 6
 - Supplementary Figure 5 + 6: Gene family genomic location X and Y 
+
 
 
 
