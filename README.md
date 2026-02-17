@@ -10,8 +10,7 @@ This study investigates the evolution of ampliconic gene families on primate sex
 ```
 .
 ├── data/
-│   ├── raw/                          # Original input data
-│   │   ├── annotations/              # Reference genome GFF files
+│   ├── raw/                          # Input data
 │   │   ├── palindromes/              # Palindrome + sequence class annotations (Makova et al., 2024)
 │   │   └── expression/               # Gene expression data
 │   ├── reference/                    # Reference files used across analyses
