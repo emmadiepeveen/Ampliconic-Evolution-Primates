@@ -40,7 +40,7 @@ Specify the sites of interest from the PAML summary table and the corresponding 
 Visualizes selection patterns across species and phylogenies.
 
 **Input:**
-- Bootstrapped pairwise dN/dS table from `scripts/01_ampliconic_detection/bootstrap_dnds.py`
+- Bootstrapped pairwise dN/dS table from `scripts/01_ampliconic_detection/bootstrap_dnds.py`. Files are in `data/intermediate/dnds/`
 - Branch test phylogenies (embedded in the script)
 
 **Output:**
@@ -68,5 +68,6 @@ Bootstrap dN/dS table (from 01_ampliconic_detection)
 selection_heatmap_phylogenies.R
           ↓
    Heatmaps + phylogeny plots (Fig 4)
+
 
 
