@@ -8,7 +8,7 @@ This directory contains the script for detecting and analyzing gene conversion e
 Analyzes gene conversion patterns by examining sequence similarity and GC content in ampliconic gene families.
 
 **Input:**
-- `gene_details` files from `scripts/01_ampliconic_detection/multicopy_genes.ipynb` (in `data/intermediate/clusters/`)
+- `gene_details` files from `scripts/01_ampliconic_detection/ampliconic_clustering_X/Y.ipynb` (in `data/intermediate/clusters/`)
 - Reference genome assemblies (same as used in multicopy gene detection)
 - Codon alignments from `scripts/01_ampliconic_detection/clustering_X.ipynb` and `clustering_Y.ipynb`
 
@@ -45,3 +45,4 @@ Permutation tests for significance
           ↓
   Gene conversion plots (Figure 3)
 ```
+
