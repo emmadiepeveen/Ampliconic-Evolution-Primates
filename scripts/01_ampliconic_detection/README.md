@@ -40,7 +40,7 @@ Identifies ampliconic gene family clusters on the X and Y chromosomes. Makes ali
 - Ampliconic gene family clusters across all species
 - Extracted coding sequences for each cluster
 - Multiple sequence alignments for each ampliconic cluster
-- Pairwise dN/dS estimates (large table, combined with bootstrapped estimates)
+- Pairwise dN/dS estimates (large table, combined with bootstrapped estimates). For this MEGA is used, see control files in `scripts/01_ampliconic/detection/MEGA_control_files`. 
 - `all_families_gene_details_with_clusters` file (gene details with cluster assignments)
 - `cluster_counts_per_species` files (summary of cluster copy numbers)
 
@@ -79,4 +79,5 @@ Final bootstrapped dN/dS table
 The palindrome annotation files from Makova et al., 2024 are included in `data/raw/palindromes/` for reproducibility.
 If you use the multicopy gene detection approach, please cite:
 Makova, K.D., Pickett, B.D., Harris, R.S. et al. The complete sequence and comparative analysis of ape sex chromosomes. Nature 630, 401–411 (2024). https://doi.org/10.1038/s41586-024-07473-2
+
 
