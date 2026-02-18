@@ -1,0 +1,16 @@
+Family,Cluster,Median M0 omega,site-test
+BPY2,BPY2,0.96467,No
+CDY1,CDY1,0.61634,No
+DAZ1,DAZ3,0.87424,Yes
+FAM47A,PonAbe_PonPyg_cluster1,0.33107,No
+HSFY1,HSFY2,0.676965,No
+RBMY1B,PanPan_PanTro_cluster1,999.0,No
+RBMY1B,PonAbe_PonPyg_cluster1,999.0,No
+RBMY1B,RBMY1F,0.705295,No
+TSPY8,TSPY8,0.79933,No
+VCY1B,PanPan_PanTro_cluster1,1.12727,No
+glutamate,PonAbe_PonPyg_cluster1,999.0,No
+isoenzyme,PonAbe_PonPyg_cluster1,0.479325,Yes
+isoenzyme,PonAbe_PonPyg_cluster2,0.5265150000000001,No
+retrovirus,PonAbe_PonPyg_cluster1,797.07819,No
+zinc,PonAbe_PonPyg_cluster1,0.4836,Yes
