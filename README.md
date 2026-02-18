@@ -28,12 +28,6 @@ This study investigates the evolution of ampliconic gene families on primate sex
 │   ├── 02_selection/                 # Positive selection analyses
 │   ├── 03_gene_conversion/           # Gene conversion detection
 │   └── 04_figures/                   # Generate manuscript figures using intermediate files
-├── results/
-│   ├── figures/
-│   │   ├── main/                     # Main figures 1-5
-│   │   └── supplementary/            # Supplementary figures
-│   └── tables/
-│       └── supplementary/            # Supplementary tables
 └── requirements.txt                  # Conda environment specification
 ```
 
