@@ -1,0 +1,405 @@
+Species	Gene	Gene_symbol	Start	End	Strand	Class	gene_family_symbol	in_palindrome	palindrome_name
+PanTro	testis-specific chromodomain protein Y 1	LOC745547	5358723	5360941	+	AMPLICONIC	CDY1	yes	Q1B
+PanTro	glutamate dehydrogenase 1, mitochondrial-like	LOC750007	5539042	5540684	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC129135297	6661276	6664016	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC107973386	6672036	6674778	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC112207446	6682798	6685540	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138956	6693560	6696302	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC129138954	6704288	6707064	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138949	6715084	6717826	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138948	6725846	6728588	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC129138958	6736574	6739350	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138955	6747370	6750112	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138960	6758132	6760874	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129135429	6779646	6782388	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC112207444	6790410	6793149	+	ANCESTRAL	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC129138957	6801136	6803912	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138959	6811932	6814674	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC129138942	6822694	6825436	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC129138941	6833422	6836198	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC745154	6844218	6846960	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC745124	6854946	6857722	+	AMPLICONIC	TSPY8	no	
+PanTro	testis-specific Y-encoded protein 3	LOC745089	6865744	6868296	+	AMPLICONIC	TSPY8	no	
+PanTro	glutamate dehydrogenase 1, mitochondrial-like	LOC112208584	8824051	8825693	+	ANCESTRAL	glutamate dehydrogenase 1, mitochondrial-like	no	
+PanTro	deleted in azoospermia protein 1	LOC744621	9432523	9491010	-	ANCESTRAL	DAZ1	no	
+PanTro	deleted in azoospermia protein 1	LOC749905	9511429	9580873	+	ANCESTRAL	DAZ1	no	
+PanTro	testis-specific basic protein Y 2	LOC107971295	9703874	9728394	-	ANCESTRAL	BPY2	no	
+PanTro	testis-specific chromodomain protein Y 1	LOC744070	10716099	10718545	-	ANCESTRAL	CDY1	no	
+PanTro	testis-specific chromodomain protein Y 1	LOC739157	10854594	10857166	+	ANCESTRAL	CDY1	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC100615847	11838124	11844476	+	ANCESTRAL	RBMY1B	no	
+PanTro	MTRNR2-like	LOC100499476	11931417	11932976	+	ANCESTRAL	MTRNR2-like 17	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC736159	14955856	14986198	-	AMPLICONIC	RBMY1B	yes	Q6.3A
+PanTro	proline-rich protein, Y-linked-like	LOC134809381	15107612	15108934	+	AMPLICONIC	proline-rich protein, Y-linked	no	
+PanTro	proline-rich protein, Y-linked-like	LOC134809382	15290514	15291836	-	AMPLICONIC	proline-rich protein, Y-linked	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC736145	15412683	15427161	+	AMPLICONIC	RBMY1B	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC100609298	15707137	15721694	-	AMPLICONIC	RBMY1B	no	
+PanTro	proline-rich protein, Y-linked-like	LOC134809385	16026314	16027636	-	AMPLICONIC	proline-rich protein, Y-linked	yes	Q7.1A
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC112208098	16149486	16163959	+	AMPLICONIC	RBMY1B	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC736860	16443912	16458396	-	AMPLICONIC	RBMY1B	yes	Q7.1B
+PanTro	proline-rich protein, Y-linked-like	LOC134809386	16579312	16580634	+	AMPLICONIC	proline-rich protein, Y-linked	yes	Q7.1B
+PanTro	proline-rich protein, Y-linked-like	LOC134809387	16762168	16763490	-	AMPLICONIC	proline-rich protein, Y-linked	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC736268	16884285	16898835	+	AMPLICONIC	RBMY1B	no	
+PanTro	testis-specific Y-encoded protein 3-like	LOC737822	17214011	17215873	+	AMPLICONIC	TSPY8	yes	Q8.1B
+PanTro	testis-specific Y-encoded protein 3-like	LOC134809394	17246361	17248927	+	AMPLICONIC	TSPY8	yes	Q8.1B
+PanTro	glutamate dehydrogenase 1, mitochondrial-like	LOC740402	18235594	18237236	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PanTro	deleted in azoospermia protein 4	LOC112208053	19207853	19258064	-	AMPLICONIC	DAZ1	no	
+PanTro	deleted in azoospermia protein 3	LOC738636	19278362	19338008	+	AMPLICONIC	DAZ1	yes	Q10.1A
+PanTro	chromodomain protein, Y-linked, 1	CDY1	20320841	20322820	+	AMPLICONIC	CDY1	yes	Q10.3A
+PanTro	MTRNR2-like	LOC100499475	21503473	21505031	-	AMPLICONIC	MTRNR2-like 17	no	
+PanTro	testis-specific Y-encoded protein 3	LOC739765	21605167	21607909	+	AMPLICONIC	TSPY8	no	
+PanTro	MTRNR2-like 17	MTRNR2L17	23849034	23850593	+	AMPLICONIC	MTRNR2-like 17	no	
+PanTro	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC740336	24040994	24057029	-	AMPLICONIC	RBMY1B	no	
+PanTro	variable charge Y-linked-like	LOC742075	28834975	28835985	-	SATELLITE	VCY1B	no	
+PanTro	variable charge Y-linked-like	LOC742119	28926390	28927400	+	SATELLITE	VCY1B	no	
+HomSap	chromodomain Y-linked 1	CDY1	26434508	26437904	+	AMPLICONIC	CDY1	no	
+HomSap	testis-specific Y-encoded protein 8	LOC124908988	8943659	8946423	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 8	TSPY8	8963923	8966719	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 8-like	LOC128966656	8984294	8987058	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC128966595	9004529	9007325	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 4	TSPY4	9024834	9027648	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC124909332	9045198	9047980	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905624	9065489	9068253	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905625	9106031	9108795	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905615	9126308	9129072	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905628	9146591	9149355	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 3	TSPY3	9187133	9189929	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC128966647	9207443	9210207	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905614	9227720	9230484	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124908978	9248003	9250767	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124905618	9268266	9271048	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905616	9288581	9291345	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905621	9308861	9311625	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124908979	9329138	9331902	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124908981	9349424	9352188	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC124909305	9369687	9372469	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909306	9390011	9392775	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124908980	9410303	9413067	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909084	9430594	9433357	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 9	TSPY9	9450876	9453690	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909320	9471194	9473958	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC124909329	9491478	9494260	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 1-like	LOC124909330	9511760	9514524	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC124909317	9532025	9534807	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909318	9552324	9555088	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909093	9572624	9575387	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4	LOC124909293	9592929	9595711	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124909294	9613237	9616002	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 1	LOC124909015	9633555	9636319	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 1	TSPY1	9653822	9656636	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC124905627	9674168	9676950	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124905619	9694466	9697230	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905620	9714753	9717518	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC124905617	9735051	9737815	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 10	TSPY10	9755329	9758125	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC128966599	9775606	9778403	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3-like	LOC124909197	9795946	9798710	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 3	LOC128966655	9816248	9819038	+	AMPLICONIC	TSPY8	no	
+HomSap	testis-specific Y-encoded protein 4-like	LOC128966591	9836553	9839365	+	AMPLICONIC	TSPY8	no	
+HomSap	testis specific protein Y-linked 2	TSPY2	10224454	10227249	-	AMPLICONIC	TSPY8	no	
+HomSap	variable charge Y-linked	VCY	14892390	14893091	-	AMPLICONIC	VCY1B	yes	Q1A
+HomSap	variable charge Y-linked 1B	VCY1B	14962884	14963615	+	AMPLICONIC	VCY1B	yes	Q1B
+HomSap	chromodomain Y-linked 2B	CDY2B	18784818	18786778	-	AMPLICONIC	CDY1	yes	Q4A
+HomSap	chromodomain Y-linked 2A	CDY2A	18932262	18934221	+	AMPLICONIC	CDY1	yes	Q4B
+HomSap	heat shock transcription factor Y-linked 1	HSFY1	19436129	19495418	+	AMPLICONIC	HSFY1	yes	Q5A
+HomSap	heat shock transcription factor Y-linked 2	HSFY2	19637916	19697230	-	AMPLICONIC	HSFY1	yes	Q5B
+HomSap	RNA binding motif protein Y-linked family 1 member B	RBMY1B	22386600	22402467	+	AMPLICONIC	RBMY1B	yes	Q7.1A
+HomSap	RNA binding motif protein Y-linked family 1 member A1	RBMY1A1	22410130	22434934	+	AMPLICONIC	RBMY1B	yes	Q7.3A
+HomSap	RNA binding motif protein Y-linked family 1 member D	RBMY1D	22703948	22736261	-	AMPLICONIC	RBMY1B	yes	Q7.3B
+HomSap	RNA binding motif protein Y-linked family 1 member E	RBMY1E	22737692	22753535	-	AMPLICONIC	RBMY1B	yes	Q7.1B
+HomSap	RNA binding motif protein Y-linked family 1 member J	RBMY1J	22997071	23018537	-	AMPLICONIC	RBMY1B	yes	Q7.7A
+HomSap	RNA binding motif protein Y-linked family 1 member F	RBMY1F	23239128	23259168	+	AMPLICONIC	RBMY1B	yes	Q7.5B
+HomSap	basic charge Y-linked 2	BPY2	23819939	23841142	+	AMPLICONIC	BPY2	yes	Q8A
+HomSap	deleted in azoospermia 1	DAZ1	23965003	24026288	-	AMPLICONIC	DAZ1	yes	Q8A
+HomSap	deleted in azoospermia 3	DAZ3	24046728	24099471	+	AMPLICONIC	DAZ1	yes	Q9.2B
+HomSap	basic charge Y-linked 2B	BPY2B	24223343	24244546	-	AMPLICONIC	BPY2	yes	Q8B
+HomSap	chromodomain Y-linked 1B	CDY1B	24814541	24817940	+	AMPLICONIC	CDY1	no	
+HomSap	deleted in azoospermia 4	DAZ4	25571713	25641471	-	AMPLICONIC	DAZ1	yes	Q11.1A
+HomSap	deleted in azoospermia 2	DAZ2	25661821	25719401	+	AMPLICONIC	DAZ1	yes	Q11.3B
+HomSap	basic charge Y-linked 2C	BPY2C	25843297	25864500	-	AMPLICONIC	BPY2	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129395711	8575404	8584804	+	AMPLICONIC	RBMY1B	no	
+PanPan	testis-specific basic protein Y 2	LOC129395774	8901811	8907725	+	ANCESTRAL	BPY2	no	
+PanPan	deleted in azoospermia protein 2	LOC129395530	9036315	9082445	-	ANCESTRAL	DAZ1	no	
+PanPan	deleted in azoospermia protein 4-like	LOC129395621	9107812	9154507	+	ANCESTRAL	DAZ1	no	
+PanPan	testis-specific basic protein Y 2	LOC129395745	9283200	9289114	-	ANCESTRAL	BPY2	no	
+PanPan	testis-specific chromodomain protein Y 1	LOC129395566	10322121	10325146	-	ANCESTRAL	CDY1	no	
+PanPan	testis-specific chromodomain protein Y 1	LOC129395731	10461020	10462645	+	ANCESTRAL	CDY1	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129395590	11474807	11489815	+	ANCESTRAL	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395729	16993365	17004999	-	AMPLICONIC	RBMY1B	yes	Q9.1A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395726	17016306	17027939	-	AMPLICONIC	RBMY1B	yes	Q9.1A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395725	17460315	17471963	+	AMPLICONIC	RBMY1B	yes	Q9.3B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395724	17483270	17494919	+	AMPLICONIC	RBMY1B	yes	Q9.3B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395723	17504218	17518156	+	AMPLICONIC	RBMY1B	yes	Q9.1B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395722	17798006	17811933	-	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395720	18242344	18253978	+	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395618	18534441	18546629	-	AMPLICONIC	RBMY1B	yes	Q10A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395613	18557651	18572131	-	AMPLICONIC	RBMY1B	yes	Q11A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395611	18581135	18595577	-	AMPLICONIC	RBMY1B	yes	Q11A
+PanPan	testis-specific Y-encoded protein 3	LOC129395585	18605271	18607823	+	AMPLICONIC	TSPY8	yes	Q11A
+PanPan	testis-specific Y-encoded protein 3	LOC129395772	20518665	20521404	-	AMPLICONIC	TSPY8	yes	Q12.3B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395771	20531077	20545556	+	AMPLICONIC	RBMY1B	yes	Q12.3B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395770	20825312	20839794	-	AMPLICONIC	RBMY1B	yes	Q12.7B
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395767	20860325	20862008	+	AMPLICONIC	TSPY8	yes	Q12.7B
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395766	20871087	20873516	+	AMPLICONIC	TSPY8	yes	Q12.7B
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395764	20881725	20884468	+	AMPLICONIC	TSPY8	yes	Q12.7B
+PanPan	keratin, type I cytoskeletal 18-like	LOC129395693	21802305	21806447	-	SATELLITE	keratin, type I cytoskeletal 18-like	no	
+PanPan	keratin, type I cytoskeletal 18-like	LOC129395708	22063818	22064394	+	SATELLITE	keratin, type I cytoskeletal 18-like	no	
+PanPan	testis-specific Y-encoded protein 3	LOC129395758	22826559	22829298	-	AMPLICONIC	TSPY8	yes	Q13.1B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395757	22838971	22853456	+	AMPLICONIC	RBMY1B	yes	Q13.1B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395756	23133260	23147742	-	SATELLITE	RBMY1B	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395755	23157356	23160127	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395753	23178906	23181645	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395752	23189667	23192410	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395751	23200426	23203169	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395750	23211186	23213925	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395748	23221946	23224685	+	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395602	25436692	25439431	-	SATELLITE	TSPY8	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395540	25449086	25463584	+	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395739	26181667	26195612	+	AMPLICONIC	RBMY1B	yes	Q18.5A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC129395733	26495121	26828667	-	AMPLICONIC	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395734	26933077	26947009	+	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395732	27226925	27241408	-	AMPLICONIC	RBMY1B	yes	Q19A
+PanPan	testis-specific Y-encoded protein 3	LOC129395781	29423071	29425810	-	AMPLICONIC	TSPY8	yes	Q20.9A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395779	29435508	29449936	+	AMPLICONIC	RBMY1B	yes	Q20.9A
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395778	29730086	29742272	-	AMPLICONIC	RBMY1B	yes	Q20.6B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395777	29753578	29765748	-	AMPLICONIC	RBMY1B	yes	Q20.6B
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395776	29776779	29791228	-	AMPLICONIC	RBMY1B	yes	Q20.6B
+PanPan	testis-specific Y-encoded protein 3	LOC129395775	29800908	29803647	+	AMPLICONIC	TSPY8	yes	Q20.6B
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395573	31940352	31942026	-	SATELLITE	TSPY8	no	
+PanPan	testis-specific Y-encoded protein 3-like	LOC129395572	31960347	31963086	-	SATELLITE	TSPY8	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395562	31972820	31987227	+	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC129395525	32259993	32274455	-	SATELLITE	RBMY1B	no	
+PanPan	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129395558	34784065	34798009	-	SATELLITE	RBMY1B	no	
+PanPan	variable charge Y-linked-like	LOC129395529	39738987	39740037	-	SATELLITE	VCY1B	no	
+PanPan	variable charge Y-linked-like	LOC129395709	39815205	39816178	+	SATELLITE	VCY1B	no	
+GorGor	deleted in azoospermia 1	DAZ1	42783133	42859657	-	AMPLICONIC	DAZ1	yes	Q17.1A
+GorGor	protein FRG1-like	LOC129530429	10834257	10902702	-	ANCESTRAL	protein FRG1-like	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530256	15477440	15491521	+	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129530259	15918165	15930918	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530261	16137383	16150683	-	AMPLICONIC	RBMY1B	yes	Q2A
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129530264	16264504	16278821	+	AMPLICONIC	RBMY1B	yes	Q2A
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530266	16415999	16429873	+	AMPLICONIC	RBMY1B	yes	Q2B
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530267	16438966	16454625	+	AMPLICONIC	RBMY1B	yes	Q2B
+GorGor	heat shock transcription factor, Y-linked-like	LOC129530294	17252746	17254618	+	AMPLICONIC	HSFY1	no	
+GorGor	heat shock transcription factor, Y-linked-like	LOC129530295	17487915	17489787	-	AMPLICONIC	HSFY1	yes	Q5.2A
+GorGor	centriole and centriolar satellite protein OFD1-like	LOC129530203	18724834	18729015	-	AMPLICONIC	centriole and centriolar satellite protein OFD1-like	no	
+GorGor	heat shock transcription factor, Y-linked-like	LOC129530237	18802999	18804871	+	AMPLICONIC	HSFY1	no	
+GorGor	heat shock transcription factor, Y-linked-like	LOC129530236	19044257	19046129	-	AMPLICONIC	HSFY1	yes	Q9.2A
+GorGor	testis-specific chromodomain protein Y 1-like	LOC129530247	19346920	19349346	-	AMPLICONIC	CDY1	yes	Q7B
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member B-like	LOC129530243	19602754	19616644	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530239	19625715	19639621	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530240	19648670	19662577	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530238	19671638	19685525	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J	LOC129530241	19694606	19708531	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530242	19717578	19730926	-	AMPLICONIC	RBMY1B	no	
+GorGor	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129530249	25725362	25739264	-	AMPLICONIC	RBMY1B	no	
+GorGor	proline-rich protein, Y-linked	LOC129530252	25845175	25848268	+	AMPLICONIC	proline-rich protein, Y-linked	no	
+GorGor	testis-specific Y-encoded protein 3	LOC129530275	34736504	34739292	-	UNCLASSIFIED	TSPY8	no	
+GorGor	testis-specific Y-encoded protein 3	LOC129530277	34757175	34759956	-	UNCLASSIFIED	TSPY8	no	
+GorGor	testis-specific Y-encoded protein 3-like	LOC129530276	34777900	34780649	-	UNCLASSIFIED	TSPY8	no	
+GorGor	testis-specific Y-encoded protein 3	LOC129530278	34798629	34801410	-	UNCLASSIFIED	TSPY8	no	
+GorGor	testis-specific Y-encoded protein 3	LOC129530279	34819290	34822071	-	UNCLASSIFIED	TSPY8	no	
+GorGor	testis-specific Y-encoded protein 3	LOC129530280	34839953	34842734	-	UNCLASSIFIED	TSPY8	no	
+GorGor	centriole and centriolar satellite protein OFD1-like	LOC129530354	41541656	41545844	-	SATELLITE	centriole and centriolar satellite protein OFD1-like	no	
+GorGor	heat shock transcription factor, Y-linked-like	LOC129530208	41620825	41622696	+	SATELLITE	HSFY1	no	
+GorGor	testis-specific basic protein Y 2	LOC129530363	42645394	42651617	+	AMPLICONIC	BPY2	yes	Q17.1A
+GorGor	deleted in azoospermia protein 3	LOC129530216	42879918	42945552	+	AMPLICONIC	DAZ1	yes	Q17.1A
+GorGor	testis-specific basic protein Y 2	LOC129530366	43077068	43083291	-	AMPLICONIC	BPY2	yes	Q17.1A
+PonPyg	protein FAM47A-like	LOC129025938	5144612	5147161	-	AMPLICONIC	protein FAM47A-like	yes	Q1A
+PonPyg	protein FAM47A-like	LOC129025881	5359409	5362234	+	AMPLICONIC	protein FAM47A-like	yes	Q1B
+PonPyg	zinc finger protein 347-like	LOC129025853	10674261	10677524	-	ANCESTRAL	zinc finger protein 285-like	no	
+PonPyg	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129025821	11232306	11246258	+	AMPLICONIC	RBMY1B	yes	Q4A
+PonPyg	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129025833	11307677	11321614	-	AMPLICONIC	RBMY1B	yes	Q4B
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025813	14215193	14217991	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025812	14237996	14240794	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025815	14261351	14264149	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025818	14284145	14286935	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025922	14307503	14310282	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025810	14330288	14333078	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025811	14353076	14355866	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025814	14399801	14402591	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025824	14423164	14425925	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025817	14445951	14448741	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025827	14469317	14472103	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025971	14484757	14493009	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025830	14513582	14516368	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025822	14536946	14539732	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025825	14583673	14586434	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025816	14606461	14609251	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025826	14629827	14632613	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025974	14645267	14653519	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025823	14674092	14676878	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025829	14697456	14700242	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025834	14720820	14723606	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025869	14744179	14746965	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025819	14790329	14793119	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025949	14813119	14815910	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025820	14835905	14838697	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3	LOC129025859	14859269	14861959	-	AMPLICONIC	TSPY8	no	
+PonPyg	testis-specific Y-encoded protein 3-like	LOC129025684	14988509	14991135	-	AMPLICONIC	TSPY8	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025867	15614148	15626567	-	AMPLICONIC	RBMY1B	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025866	15663236	15675694	-	AMPLICONIC	RBMY1B	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025850	15761558	15774003	-	AMPLICONIC	RBMY1B	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025935	15810701	15823159	-	AMPLICONIC	RBMY1B	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025851	15909023	15921468	-	AMPLICONIC	RBMY1B	no	
+PonPyg	RNA-binding motif protein, X chromosome-like	LOC129025831	15958158	15970639	-	AMPLICONIC	RBMY1B	no	
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025896	25891571	25893142	-	AMPLICONIC	CDY1	yes	Q5.2A
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025903	26050227	26052316	+	AMPLICONIC	CDY1	no	
+PonPyg	deleted in azoospermia protein 4-like	LOC129025961	26220121	26282719	-	AMPLICONIC	DAZ1	yes	Q7.3A
+PonPyg	deleted in azoospermia protein 4-like	LOC129025963	26306805	26359877	+	AMPLICONIC	DAZ1	yes	Q7.1B
+PonPyg	glutamate dehydrogenase 1, mitochondrial-like	LOC129025709	27383972	27395150	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	yes	Q8.1B
+PonPyg	deleted in azoospermia protein 1-like	LOC129025944	27937117	28009718	-	AMPLICONIC	DAZ1	yes	Q9.3A
+PonPyg	deleted in azoospermia protein 1-like	LOC129025942	28033868	28103310	+	AMPLICONIC	DAZ1	yes	Q9.2B
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025902	29061134	29063226	+	AMPLICONIC	CDY1	yes	Q10.1B
+PonPyg	adenylate kinase isoenzyme 6-like	LOC129025719	29350913	29365047	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonPyg	testis-specific chromodomain protein Y 2	LOC129025886	29671200	29673096	-	AMPLICONIC	CDY1	yes	Q11A
+PonPyg	glutamate dehydrogenase 1, mitochondrial-like	LOC129025861	30017389	30018998	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonPyg	heat shock transcription factor, Y-linked	LOC129025904	30564830	30576670	+	AMPLICONIC	HSFY1	no	
+PonPyg	endogenous retrovirus group K member 5 Env polyprotein-like	LOC129025739	31788452	31789733	+	AMPLICONIC	endogenous retrovirus group K member 19 Env polyprotein-like	no	
+PonPyg	heat shock transcription factor, Y-linked	LOC129025837	31859828	31871661	-	AMPLICONIC	HSFY1	no	
+PonPyg	adenylate kinase isoenzyme 6-like	LOC129025747	33022410	33035718	-	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025917	33323942	33326034	-	AMPLICONIC	CDY1	no	
+PonPyg	deleted in azoospermia protein 4-like	LOC129025913	33814768	33858722	-	AMPLICONIC	DAZ1	no	
+PonPyg	deleted in azoospermia protein 1-like	LOC129025914	33882908	33948492	+	AMPLICONIC	DAZ1	yes	Q18B
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025890	34656667	34658706	-	AMPLICONIC	CDY1	yes	Q19A
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025888	34816536	34818599	+	AMPLICONIC	CDY1	no	
+PonPyg	deleted in azoospermia protein 1-like	LOC129025945	35664344	35707458	-	AMPLICONIC	DAZ1	yes	Q22.3B
+PonPyg	deleted in azoospermia protein 4-like	LOC129025947	35731655	35796395	+	AMPLICONIC	DAZ1	yes	Q22.2B
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025898	36502421	36504513	-	AMPLICONIC	CDY1	no	
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025901	36614912	36617004	+	AMPLICONIC	CDY1	no	
+PonPyg	heat shock transcription factor, Y-linked	LOC129025967	38005344	38017284	+	AMPLICONIC	HSFY1	no	
+PonPyg	adenylate kinase isoenzyme 6-like	LOC129025777	39011808	39025937	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonPyg	testis-specific chromodomain protein Y 1	LOC129025889	39332081	39334151	-	AMPLICONIC	CDY1	yes	Q26A
+PonPyg	testis-specific chromodomain protein Y 1	LOC129025887	39491754	39493824	+	AMPLICONIC	CDY1	no	
+PonPyg	glutamate dehydrogenase 1, mitochondrial-like	LOC129025862	39678214	39679700	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonPyg	heat shock transcription factor, Y-linked	LOC129025964	40237186	40239064	+	AMPLICONIC	HSFY1	no	
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025879	41525936	41528011	-	AMPLICONIC	CDY1	yes	Q29A
+PonPyg	testis-specific chromodomain protein Y 1-like	LOC129025882	41685721	41687796	+	AMPLICONIC	CDY1	yes	Q29B
+PonPyg	deleted in azoospermia protein 1-like	LOC129025960	42384755	42439485	-	AMPLICONIC	DAZ1	yes	Q31B
+PonPyg	deleted in azoospermia protein 4-like	LOC129025923	42461501	42553881	+	AMPLICONIC	DAZ1	no	
+PonPyg	zinc finger protein 717-like	LOC129025664	48987197	49063736	+	UNCLASSIFIED	zinc finger protein 285-like	no	
+PonAbe	protein FAM47A-like	LOC129053454	5258115	5261163	-	AMPLICONIC	protein FAM47A-like	yes	Q1.2A
+PonAbe	protein FAM47A-like	LOC129053444	5478764	5481812	+	AMPLICONIC	protein FAM47A-like	yes	Q1.2B
+PonAbe	zinc finger protein 347-like	LOC134760937	10799983	10800788	-	ANCESTRAL	zinc finger protein 285-like	no	
+PonAbe	zinc finger protein 347-like	LOC129053114	10800790	10813242	-	ANCESTRAL	zinc finger protein 285-like	no	
+PonAbe	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129053464	11360201	11374129	+	AMPLICONIC	RBMY1B	yes	Q4A
+PonAbe	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129053479	11435494	11449407	-	AMPLICONIC	RBMY1B	yes	Q4B
+PonAbe	testis-specific Y-encoded protein 8-like	LOC129053463	11475401	11477193	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053384	14319531	14322294	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053427	14411276	14414030	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3	LOC129053419	14465425	14468185	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3	LOC129053420	14488208	14490968	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3	LOC129053478	14511575	14514329	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053387	14532615	14535375	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053389	14555415	14558175	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053386	14576460	14579220	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053409	14599259	14602013	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053405	14622055	14624809	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053407	14644851	14647605	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053388	14667644	14670404	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053414	14691022	14693776	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053413	14714382	14717136	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053408	14737731	14740485	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053385	14761083	14763843	-	AMPLICONIC	TSPY8	no	
+PonAbe	testis-specific Y-encoded protein 3-like	LOC129053416	14793073	14795833	-	AMPLICONIC	TSPY8	no	
+PonAbe	RNA-binding motif protein, X chromosome-like	LOC129053402	15426518	15439016	-	AMPLICONIC	RBMY1B	no	
+PonAbe	RNA-binding motif protein, X chromosome-like	LOC129053437	15672053	15684462	-	AMPLICONIC	RBMY1B	no	
+PonAbe	testis-specific chromodomain protein Y 1	LOC129053439	35795298	35797173	-	AMPLICONIC	CDY1	yes	Q5.1A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053440	35954132	35955944	+	AMPLICONIC	CDY1	yes	Q5.1B
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053441	36920924	36923227	-	AMPLICONIC	CDY1	yes	Q7A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053442	37080427	37082730	+	AMPLICONIC	CDY1	yes	Q7B
+PonAbe	heat shock transcription factor, Y-linked-like	LOC129053226	37288015	37288320	+	AMPLICONIC	HSFY1	no	
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053227	37370843	37385148	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	heat shock transcription factor, Y-linked-like	LOC134760945	37948619	37948953	+	AMPLICONIC	HSFY1	no	
+PonAbe	endogenous retrovirus group K member 19 Env polyprotein-like	LOC134760947	38305213	38306259	+	AMPLICONIC	endogenous retrovirus group K member 19 Env polyprotein-like	no	
+PonAbe	heat shock transcription factor, Y-linked	LOC129053171	38381325	38383204	-	AMPLICONIC	HSFY1	no	
+PonAbe	glutamate dehydrogenase 1, mitochondrial-like	LOC129053238	38903812	38944007	-	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonAbe	testis-specific chromodomain protein Y 2-like	LOC129053449	39091855	39092645	-	AMPLICONIC	CDY1	yes	Q11A
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053242	39489945	39503178	-	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053453	39794954	39797046	-	AMPLICONIC	CDY1	no	
+PonAbe	deleted in azoospermia protein 3-like	LOC129053177	40287231	40313073	-	AMPLICONIC	DAZ1	yes	Q13A
+PonAbe	deleted in azoospermia protein 1-like	LOC129053245	40367975	40434858	+	AMPLICONIC	DAZ1	yes	Q13B
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053460	41147495	41149431	-	AMPLICONIC	CDY1	yes	Q14A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053461	41259419	41261436	+	AMPLICONIC	CDY1	yes	Q14B
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053251	41554249	41568376	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053178	41874974	41877403	-	AMPLICONIC	CDY1	yes	Q15A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053180	42034652	42036938	+	AMPLICONIC	CDY1	yes	Q15B
+PonAbe	glutamate dehydrogenase 1, mitochondrial-like	LOC129053465	42221452	42222929	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonAbe	heat shock transcription factor, Y-linked	LOC129053184	42690674	42692553	-	AMPLICONIC	HSFY1	no	
+PonAbe	heat shock transcription factor, Y-linked-like	LOC134760951	43940253	43940558	-	AMPLICONIC	HSFY1	no	
+PonAbe	heat shock transcription factor, Y-linked	LOC129053190	44866677	44868556	-	AMPLICONIC	HSFY1	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053476	45770263	45772321	+	AMPLICONIC	CDY1	yes	Q20B
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053280	46078464	46092457	-	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1	LOC129053198	46381211	46383514	-	AMPLICONIC	CDY1	yes	Q21.2A
+PonAbe	testis-specific chromodomain protein Y 1	LOC129053199	46540858	46543161	+	AMPLICONIC	CDY1	yes	Q21.2B
+PonAbe	deleted in azoospermia protein 3-like	LOC129053200	47246963	47295514	-	AMPLICONIC	DAZ1	yes	Q23.1A
+PonAbe	heat shock transcription factor, Y-linked-like	LOC134760935	48381259	48381564	+	AMPLICONIC	HSFY1	no	
+PonAbe	endogenous retrovirus group K member 19 Env polyprotein-like	LOC134760954	48737920	48738966	+	AMPLICONIC	endogenous retrovirus group K member 19 Env polyprotein-like	no	
+PonAbe	heat shock transcription factor, Y-linked	LOC129053487	48814026	48815906	-	AMPLICONIC	HSFY1	no	
+PonAbe	glutamate dehydrogenase 1, mitochondrial-like	LOC129053299	49336452	49376646	-	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonAbe	testis-specific chromodomain protein Y 2-like	LOC129053492	49524498	49525288	-	AMPLICONIC	CDY1	yes	Q27A
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053301	49922626	49935897	-	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053496	50227701	50229793	-	AMPLICONIC	CDY1	no	
+PonAbe	deleted in azoospermia protein 1-like	LOC129053304	50717647	50784535	-	AMPLICONIC	DAZ1	yes	Q29A
+PonAbe	deleted in azoospermia protein 1-like	LOC129053305	50800706	50867582	+	AMPLICONIC	DAZ1	yes	Q29B
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053502	51580221	51582157	-	AMPLICONIC	CDY1	yes	Q30A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053503	51692121	51694138	+	AMPLICONIC	CDY1	yes	Q30B
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053311	51986950	52001077	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053357	52307689	52309712	-	AMPLICONIC	CDY1	yes	Q31A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053358	52467350	52469636	+	AMPLICONIC	CDY1	yes	Q31B
+PonAbe	glutamate dehydrogenase 1, mitochondrial-like	LOC129053123	52654143	52655620	+	AMPLICONIC	glutamate dehydrogenase 1, mitochondrial-like	no	
+PonAbe	heat shock transcription factor, Y-linked	LOC129053362	53211300	53213180	+	AMPLICONIC	HSFY1	no	
+PonAbe	adenylate kinase isoenzyme 6-like	LOC129053327	54279675	54292919	-	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053139	54584688	54586780	-	AMPLICONIC	CDY1	no	
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053144	55889000	55891124	-	AMPLICONIC	CDY1	yes	Q36A
+PonAbe	testis-specific chromodomain protein Y 1-like	LOC129053145	56048677	56050868	+	AMPLICONIC	CDY1	yes	Q36B
+PonAbe	zinc finger protein 285-like	LOC134760961	67122425	67136712	-	UNCLASSIFIED	zinc finger protein 285-like	no	
+PonAbe	protein FRG1-like	LOC129053400	67564823	67585676	+	UNCLASSIFIED	protein FRG1-like	no	
+SymSyn	protein FAM47A-like	LOC129476666	9419974	9422111	+	ANCESTRAL	protein FAM47A-like	no	
+SymSyn	testis-specific basic protein Y 1-like	LOC129476793	11223317	11224091	+	AMPLICONIC	VCY1B	no	
+SymSyn	deleted in azoospermia protein 1-like	LOC129476758	18081065	18116568	-	AMPLICONIC	DAZ1	yes	Q5A
+SymSyn	deleted in azoospermia protein 1-like	LOC129476757	18127859	18163301	+	AMPLICONIC	DAZ1	yes	Q5B
+SymSyn	testis-specific chromodomain protein Y 1-like	LOC129476678	19362995	19365273	-	AMPLICONIC	CDY1	yes	Q6.1A
+SymSyn	heat shock transcription factor, Y-linked	LOC129476748	19426501	19428425	-	AMPLICONIC	HSFY1	yes	Q6.1A
+SymSyn	testis-specific Y-encoded protein 3-like	LOC129476679	19477741	19480430	-	AMPLICONIC	TSPY8	yes	Q6.1A
+SymSyn	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129476690	19589548	19602249	+	AMPLICONIC	RBMY1B	yes	Q6.1A
+SymSyn	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC129476703	19871324	19884036	-	AMPLICONIC	RBMY1B	yes	Q6.2A
+SymSyn	testis-specific Y-encoded protein 3-like	LOC129476754	19993157	19995846	+	AMPLICONIC	TSPY8	yes	Q6.2A
+SymSyn	heat shock transcription factor, Y-linked	LOC129476753	20045205	20047082	+	AMPLICONIC	HSFY1	yes	Q6.2A
+SymSyn	testis-specific chromodomain protein Y 1-like	LOC129476752	20108307	20110585	+	AMPLICONIC	CDY1	yes	Q6.2A
+SymSyn	adenylate kinase isoenzyme 6-like	LOC129476715	20399597	20402824	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+SymSyn	testis-specific chromodomain protein Y 1-like	LOC129476749	20615009	20617287	-	AMPLICONIC	CDY1	yes	Q6.2B
+SymSyn	heat shock transcription factor, Y-linked	LOC129476760	20678509	20680386	-	AMPLICONIC	HSFY1	yes	Q6.2B
+SymSyn	testis-specific Y-encoded protein 3-like	LOC129476681	20729773	20732443	-	AMPLICONIC	TSPY8	yes	Q6.2B
+SymSyn	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129476701	20841562	20854273	+	AMPLICONIC	RBMY1B	yes	Q6.2B
+SymSyn	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129476739	21123360	21136063	-	AMPLICONIC	RBMY1B	yes	Q6.2B
+SymSyn	RNA-binding motif protein, Y chromosome, family 1 member A1-like	LOC129476740	21171504	21184205	-	AMPLICONIC	RBMY1B	yes	Q6.5B
+SymSyn	testis-specific Y-encoded protein 3-like	LOC129476742	21293330	21296019	+	AMPLICONIC	TSPY8	yes	Q6.5B
+SymSyn	heat shock transcription factor, Y-linked	LOC129476741	21345383	21347260	+	AMPLICONIC	HSFY1	yes	Q6.5B
+SymSyn	testis-specific chromodomain protein Y 1-like	LOC129476738	21408483	21410761	+	AMPLICONIC	CDY1	yes	Q6.5B
+SymSyn	adenylate kinase isoenzyme 6-like	LOC129476721	21699779	21703018	+	AMPLICONIC	adenylate kinase isoenzyme 6-like	no	
+SymSyn	testis-specific chromodomain protein Y 1-like	LOC129476751	21915157	21917435	-	AMPLICONIC	CDY1	yes	Q6.9B
+SymSyn	heat shock transcription factor, Y-linked	LOC129476768	21978653	21980530	-	AMPLICONIC	HSFY1	yes	Q6.9B
+SymSyn	testis-specific Y-encoded protein 3-like	LOC129476680	22029903	22032592	-	AMPLICONIC	TSPY8	yes	Q6.9B
+SymSyn	protein FRG1-like	LOC129476675	24498199	24520841	+	ANCESTRAL	protein FRG1-like	no	
+SymSyn	protein FRG1-like	LOC129476799	27758723	27776855	-	AMPLICONIC	protein FRG1-like	no	
+SymSyn	TATA-box binding protein associated factor 11 like protein 2-like	LOC129476766	28041886	28100756	+	AMPLICONIC	TATA-box binding protein associated factor 11 like protein 2-like	no	
+SymSyn	TATA-box binding protein associated factor 11 like protein 2-like	LOC134736091	29210549	29211100	+	UNCLASSIFIED	TATA-box binding protein associated factor 11 like protein 2-like	no	
+SymSyn	TATA-box binding protein associated factor 11 like protein 2-like	LOC129476786	29216531	29217127	+	UNCLASSIFIED	TATA-box binding protein associated factor 11 like protein 2-like	no	
+MacFas	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC141409567	8390022	8400485	-	Unknown	RBMY1B	no	
+MacFas	testis-specific Y-encoded protein 3-like	LOC141409568	8425943	8427787	-	Unknown	TSPY8	no	
+MacFas	heat shock transcription factor, Y-linked-like	LOC141409522	10080273	10082203	-	Unknown	HSFY1	no	
+MacFas	heat shock transcription factor, Y-linked-like	LOC141409552	10458859	10460548	+	Unknown	HSFY1	no	
+MacFas	heat shock transcription factor, Y-linked-like	LOC141409553	10627428	10629117	-	Unknown	HSFY1	no	
+MacFas	uncharacterized LOC141409523	LOC141409523	11237967	11299986	-	Unknown	DAZ1	no	
+MacFas	RNA-binding motif protein, Y chromosome, family 1 member F/J-like	LOC141409556	11818607	11831887	-	Unknown	RBMY1B	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409524	11882836	11885593	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409525	11899214	11901971	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409526	11915597	11918354	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409527	11931979	11934736	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409528	11948358	11951115	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409529	11964746	11967503	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409530	11981124	11983881	-	Unknown	TSPY8	no	
+MacFas	testis-specific Y-encoded protein 2-like	LOC141409557	12091184	12093921	+	Unknown	TSPY8	no	
+MacFas	deleted in azoospermia protein 1-like	LOC141409531	12794702	12850544	+	Unknown	DAZ1	no	
+MacFas	testis-specific chromodomain protein Y 2-like	LOC141409533	13091147	13093961	-	Unknown	CDY1	no	
+MacFas	testis-specific chromodomain protein Y 2-like	LOC141409534	13181606	13183887	+	Unknown	CDY1	no	
