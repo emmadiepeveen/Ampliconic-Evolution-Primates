@@ -20,9 +20,8 @@ This study investigates the evolution of ampliconic gene families on primate sex
 │       ├── gene_details/             # Multicopy gene annotations
 │       ├── clusters/                 # Gene family cluster assignments
 │       ├── cluster_counts/           # Cluster copy numbers per species
-│       ├── alignments/               # Multiple sequence alignments
 │       ├── dnds/                     # dN/dS ratio tables
-│       └── paml/                     # PAML analysis outputs
+│       └── paml/                     # PAML analysis summary tables
 ├── scripts/
 │   ├── 01_ampliconic_detection/      # Identify ampliconic gene families
 │   ├── 02_selection/                 # Positive selection analyses
