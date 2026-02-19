@@ -143,6 +143,10 @@ MAGEB16	PanPan_PanTro_PonAbe_PonPyg_cluster1	0	0	0	1	1	1	1	0
 MAGEB16	PanPan_cluster1	0	0	0	1	0	0	0	0
 MAGEB16	PonAbe_PonPyg_SymSyn_cluster1	0	0	0	0	0	1	1	1
 MAGEB16	PonAbe_PonPyg_SymSyn_cluster2	0	0	0	0	0	1	1	1
+MAGED	MAGED1	1	1	1	1	1	1	1	1
+MAGED	MAGED2	1	1	1	1	1	1	1	1
+MAGED	MAGED4	2	2	2	2	2	2	2	2
+MAGED	TRO	1	1	1	1	1	1	1	1
 NUDT10	NUDT10	2	2	2	2	2	2	1	2
 NUDT10	PonPyg_cluster1	0	0	0	0	0	0	1	0
 NXF3	GorGor_cluster1	1	0	0	0	0	0	0	0
