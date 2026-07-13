@@ -1,13 +1,13 @@
-**Goal**
+**Goal:**
 This script is to find gene copies of ampliconic gene families in long-read de novo assemblies. 
 
 
 **Input:**
 - Reference genome assemblies (same as used in multicopy gene detection)
-- Long read de novo assemblies from Chimpanzees, Humans and gorillas (Long reads used are from Porsborg, Peter Soerud, Anders Poulsen Charmouh, Vinod Kumar Singh, et al. 2025. ‘Long-Read Sequencing of Primate Testis and Human Sperm Allows Identification of Recombination Events in Individuals’. Nature Communications 16 (1): 10337. https://doi.org/10.1038/s41467-025-65248-3.)
+- Long read de novo assemblies from Chimpanzees, Humans and gorillas (Long reads used are from "Porsborg,Peter Soerud, Anders Poulsen Charmouh, Vinod Kumar Singh, et al. 2025. ‘Long-Read Sequencing of Primate Testis and Human Sperm Allows Identification of Recombination Events in Individuals’. Nature Communications 16 (1): 10337. https://doi.org/10.1038/s41467-025-65248-3.")
 
 **Analysis steps:**
-1. **Identify all X-linked contigs:** Use only assembled contigs that have X chromosome content 
+1. **Identify all X-linked contigs:** Use only assembled contigs that have X chromosome content (wfmash.sh). Everything else is in the notebook
 2. **Pull out reference queries of the reference T2T genome:** get all coding sequences of all loci in an ampliconic cluster from the reference genome
 3. **BLAT reference mRNAs against each individual's X-contigs:** Find all possible hits of the ampliconic copies
 4. **Filter for chimeric alignments:** exclude all alignments that span over multiple copies 
@@ -17,10 +17,6 @@ This script is to find gene copies of ampliconic gene families in long-read de n
 8. **Copy number estimation for copies with ORF and no frameshifts:** Only keep copies with ORF and no frameshits 
 9. **Calculate pairwise pN/pS:** From each ampliconic cluster per individual
 10. **Build gene trees per family per species:** inferred a maximum-likelihood tree for each family and species from the codon alignment
-
-
-
-
 
 
 **Output:**
