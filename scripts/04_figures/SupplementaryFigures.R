@@ -47,32 +47,54 @@ df_summarized <- df_summarized %>%
 
 chrom_colors <- c(X = "#E377C2", Y = "#1F77B4")  # pink for X, blue for Y
 
+# make separate best-of-fit lines for X and Y families
+df_clean <- df_summarized %>%
+  filter(median_copy > 0 & var_copy > 0)
+
+# Calculate R² for each chromosome
+r2_x <- summary(lm(log10(var_copy) ~ log10(median_copy), 
+                   data = filter(df_clean, Chromosome == "X")))$r.squared
+r2_y <- summary(lm(log10(var_copy) ~ log10(median_copy), 
+                   data = filter(df_clean, Chromosome == "Y")))$r.squared
+
 # 4) plot Variance copy number ~ median copy number
 ggplot(df_summarized, aes(x = median_copy, y = var_copy)) +
-  # Dots: chromosome colours
-  geom_point(aes(color = Chromosome), size = 4, alpha = 0.85) +
-  # Labels: same colour as dots, CT genes bold + with a star
+  # lines of best fit first (so they appear behind everything)
+  geom_smooth(aes(color = Chromosome), method = "lm", se = FALSE, linewidth = 0.5) +
+  # Regular dots: chromosome colours
+  geom_point(data = filter(df_summarized, !CT_flag),
+             aes(color = Chromosome), size = 4, alpha = 0.85, shape = 16) +
+  # CT gene dots: triangles, chromosome colours
+  geom_point(data = filter(df_summarized, CT_flag),
+             aes(color = Chromosome), size = 4, alpha = 0.85, shape = 17) +
+  # Labels: green for CT genes, chromosome color for others
   ggrepel::geom_text_repel(
     aes(
       label = ifelse(CT_flag, paste0(`Gene family`, "*"), `Gene family`),
-      color = Chromosome,
+      color = ifelse(CT_flag, "CT_green", Chromosome),
       fontface = ifelse(CT_flag, "bold", "plain")
     ),
     size = 3.5,
     max.overlaps = Inf,
     show.legend = FALSE
   ) +
-    scale_color_manual(
-    values = chrom_colors,
-    labels = c(X = "X chromosome", Y = "Y chromosome")
+  scale_color_manual(
+    values = c(chrom_colors, CT_green = "#4CAF50"),
+    labels = c(X = "X chromosome", Y = "Y chromosome", CT_green = "Cancer-Testis gene")
   ) +
-  geom_smooth(method = "lm", se = FALSE, col = "gray") +
+  # Add R² annotations
+  annotate("text", x = 20, y = 0.55, 
+           label = paste0("X: R² = ", round(r2_x, 3)),
+           hjust = 0, vjust = 0, size = 4, color = chrom_colors["X"]) +
+  annotate("text", x = 20, y =0.40, 
+           label = paste0("Y: R² = ", round(r2_y, 3)),
+           hjust = 0, vjust = 0, size = 4, color = chrom_colors["Y"]) +
   scale_x_log10() +
   scale_y_log10() +
   labs(
     x = expression(Log[10]*"(Median copy number across species)"),
     y = expression(Log[10]*"(Variance in copy number across species)"),
-    color = "* = Cancer-Testis gene"
+    color = ""
   ) +
   theme_minimal() +
   theme(
@@ -83,11 +105,11 @@ ggplot(df_summarized, aes(x = median_copy, y = var_copy)) +
     legend.position = "top",
     legend.title = element_text(size = 18),
     legend.text = element_text(size = 18),
-    axis.line = element_line(color = "black", linewidth = 0.5)
+    axis.line.x = element_line(color = "black", linewidth = 0.5),
+    axis.line.y = element_line(color = "black", linewidth = 0.5)
   )
 
-ggsave("~/Downloads/median_vs_variance_XYgenes.pdf", width = 15, height = 12, dpi = 300)
-
+ggsave("~/Downloads/median_vs_variance_XYgenes2.pdf", width = 15, height = 12, dpi = 300)
 
 
 
